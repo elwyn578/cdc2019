@@ -1,0 +1,311 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2011,201107,Jul-11,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2870272,,,0
+HS,2011,201107,Jul-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2042666074,,,0
+HS,2011,201107,Jul-11,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,1211,,,0
+HS,2011,201107,Jul-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1176742767,,,0
+HS,2011,201107,Jul-11,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,489698,,,0
+HS,2011,201107,Jul-11,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,840224,,,0
+HS,2011,201105,May-11,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2137767,,,0
+HS,2010,201008,Aug-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1037643582,,,0
+HS,2011,201105,May-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2778143205,,,0
+HS,2011,201102,Feb-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,588932742,,,0
+HS,2010,201008,Aug-10,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,5644,,,0
+HS,2011,201105,May-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1036157999,,,0
+HS,2011,201102,Feb-11,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1723808,,,0
+HS,2011,201105,May-11,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,579708,,,0
+HS,2011,201105,May-11,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,4581291,,,0
+HS,2011,201102,Feb-11,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,207119,,,0
+HS,2011,201105,May-11,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,508657,,,0
+HS,2010,201008,Aug-10,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,407033,,,0
+HS,2010,201007,Jul-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1259666607,,,0
+HS,2011,201102,Feb-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2530094276,,,0
+HS,2010,201008,Aug-10,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1048263,,,0
+HS,2010,201007,Jul-10,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,6758,,,0
+HS,2010,201008,Aug-10,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2849329,,,0
+HS,2011,201102,Feb-11,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,670804,,,0
+HS,2010,201008,Aug-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,959905627,,,0
+HS,2010,201007,Jul-10,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,785559,,,0
+HS,2010,201007,Jul-10,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1433754,,,0
+HS,2010,201007,Jul-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,975123586,,,0
+HS,2011,201109,Sep-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3045976831,,,0
+HS,2010,201007,Jul-10,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2786086,,,0
+HS,2011,201101,Jan-11,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2489442,,,0
+HS,2011,201101,Jan-11,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,2065,,,0
+HS,2011,201101,Jan-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2369672131,,,0
+HS,2011,201109,Sep-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1334733770,,,0
+HS,2011,201109,Sep-11,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2633173,,,0
+HS,2011,201104,Apr-11,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2254168,,,0
+HS,2011,201109,Sep-11,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,1020178,,,0
+HS,2011,201104,Apr-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2684432404,,,0
+HS,2011,201108,Aug-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2468679480,,,0
+HS,2011,201104,Apr-11,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1190692,,,0
+HS,2011,201106,Jun-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1040236678,,,0
+HS,2011,201106,Jun-11,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,470079,,,0
+HS,2011,201108,Aug-11,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,498441,,,0
+HS,2011,201108,Aug-11,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1320782,,,0
+HS,2011,201101,Jan-11,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,688245,,,0
+HS,2011,201101,Jan-11,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,388699,,,0
+HS,2011,201101,Jan-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1090046655,,,0
+HS,2011,201109,Sep-11,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3420958,,,0
+HS,2011,201108,Aug-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1332293966,,,0
+HS,2011,201104,Apr-11,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,471562,,,0
+HS,2011,201104,Apr-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1081762727,,,0
+HS,2011,201108,Aug-11,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,440235,,,0
+HS,2011,201103,Mar-11,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,407356,,,0
+HS,2011,201103,Mar-11,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2597189,,,0
+HS,2011,201103,Mar-11,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,603268,,,0
+HS,2011,201103,Mar-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,994787183,,,0
+HS,2011,201103,Mar-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2587182752,,,0
+HS,2010,201003,Mar-10,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,2201,,,0
+HS,2010,201003,Mar-10,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1702990,,,0
+HS,2010,201006,Jun-10,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,1312435,,,0
+HS,2010,201006,Jun-10,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4332024,,,0
+HS,2010,201006,Jun-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,920158142,,,0
+HS,2010,201012,Dec-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2031392519,,,0
+HS,2010,201009,Sep-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1025574927,,,0
+HS,2010,201012,Dec-10,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3423241,,,0
+HS,2010,201006,Jun-10,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1676117,,,0
+HS,2010,201006,Jun-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,926866598,,,0
+HS,2010,201012,Dec-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,962233809,,,0
+HS,2010,201009,Sep-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1212871133,,,0
+HS,2010,201010,Oct-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1047628553,,,0
+HS,2010,201009,Sep-10,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,147499,,,0
+HS,2010,201005,May-10,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2705425,,,0
+HS,2010,201010,Oct-10,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1878878,,,0
+HS,2010,201011,Nov-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2192452572,,,0
+HS,2010,201005,May-10,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,959351,,,0
+HS,2010,201009,Sep-10,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,579278,,,0
+HS,2010,201009,Sep-10,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2434056,,,0
+HS,2010,201011,Nov-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1045977185,,,0
+HS,2010,201009,Sep-10,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,323,,,0
+HS,2010,201012,Dec-10,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,858927,,,0
+HS,2010,201012,Dec-10,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1228299,,,0
+HS,2010,201011,Nov-10,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,706976,,,0
+HS,2010,201005,May-10,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2151194,,,0
+HS,2010,201005,May-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1119191529,,,0
+HS,2010,201005,May-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,877692625,,,0
+HS,2010,201010,Oct-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1078966713,,,0
+HS,2010,201010,Oct-10,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1056178,,,0
+HS,2010,201010,Oct-10,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,331586,,,0
+HS,2010,201002,Feb-10,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,6717273,,,0
+HS,2010,201002,Feb-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1026971281,,,0
+HS,2010,201011,Nov-10,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2232535,,,0
+HS,2010,201002,Feb-10,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,192325,,,0
+HS,2010,201011,Nov-10,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,383073,,,0
+HS,2010,201002,Feb-10,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,65489,,,0
+HS,2010,201002,Feb-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,670352646,,,0
+HS,2010,201001,Jan-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,760036685,,,0
+HS,2010,201003,Mar-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,967256338,,,0
+HS,2010,201001,Jan-10,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,969884,,,0
+HS,2010,201003,Mar-10,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1573194,,,0
+HS,2010,201001,Jan-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,758174146,,,0
+HS,2010,201003,Mar-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,723616325,,,0
+HS,2010,201003,Mar-10,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,120920,,,0
+HS,2011,201112,Dec-11,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1062708,,,0
+HS,2011,201112,Dec-11,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,156,,,0
+HS,2011,201112,Dec-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2941089214,,,0
+HS,2010,201001,Jan-10,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,739701,,,0
+HS,2010,201001,Jan-10,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,250572,,,0
+HS,2010,201004,Apr-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,832563987,,,0
+HS,2010,201004,Apr-10,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,3,,,0
+HS,2010,201004,Apr-10,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2632055,,,0
+HS,2010,201004,Apr-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1228845341,,,0
+HS,2010,201004,Apr-10,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,486875,,,0
+HS,2010,201004,Apr-10,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,931025,,,0
+HS,2011,201112,Dec-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1056772859,,,0
+HS,2011,201112,Dec-11,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,327909,,,0
+HS,2011,201112,Dec-11,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2255981,,,0
+HS,2011,201110,Oct-11,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1416617,,,0
+HS,2011,201111,Nov-11,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1428812,,,0
+HS,2011,201111,Nov-11,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4595111,,,0
+HS,2011,201110,Oct-11,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,473629,,,0
+HS,2011,201111,Nov-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1284942778,,,0
+HS,2011,201110,Oct-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2430367293,,,0
+HS,2011,201110,Oct-11,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1561326,,,0
+HS,2011,201110,Oct-11,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,24000,,,0
+HS,2011,201111,Nov-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3789549136,,,0
+HS,2011,201110,Oct-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1351780933,,,0
+HS,2011,201111,Nov-11,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,315970,,,0
+HS,2011,201106,Jun-11,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,694555,,,0
+HS,2011,201106,Jun-11,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2908939,,,0
+HS,2011,201106,Jun-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2397478557,,,0
+HS,2012,201201,Jan-12,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,523437,,,0
+HS,2012,201201,Jan-12,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,1771285,,,0
+HS,2012,201201,Jan-12,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1163722438,,,0
+HS,2012,201201,Jan-12,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1097399,,,0
+HS,2012,201201,Jan-12,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1894591924,,,0
+HS,2012,201202,Feb-12,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1478728,,,0
+HS,2012,201202,Feb-12,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,172491,,,0
+HS,2012,201202,Feb-12,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,572270640,,,0
+HS,2012,201202,Feb-12,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4866860,,,0
+HS,2012,201202,Feb-12,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2876655711,,,0
+HS,2012,201203,Mar-12,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,195151,,,0
+HS,2012,201203,Mar-12,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4727072143,,,0
+HS,2012,201203,Mar-12,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,875070,,,0
+HS,2012,201203,Mar-12,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1118513683,,,0
+HS,2012,201203,Mar-12,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2235938,,,0
+HS,2012,201203,Mar-12,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,642671,,,0
+HS,2012,201204,Apr-12,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4548194,,,0
+HS,2012,201204,Apr-12,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4225713453,,,0
+HS,2012,201204,Apr-12,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,1179364,,,0
+HS,2012,201204,Apr-12,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1149050282,,,0
+HS,2012,201204,Apr-12,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1190691,,,0
+HS,2012,201205,May-12,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4500438764,,,0
+HS,2012,201205,May-12,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1180441079,,,0
+HS,2012,201205,May-12,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,5009114,,,0
+HS,2012,201205,May-12,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,1367199,,,0
+HS,2012,201205,May-12,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,797879,,,0
+HS,2012,201206,Jun-12,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4090370,,,0
+HS,2012,201206,Jun-12,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4257767383,,,0
+HS,2012,201206,Jun-12,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1591353,,,0
+HS,2012,201206,Jun-12,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,395689,,,0
+HS,2012,201206,Jun-12,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1309890512,,,0
+HS,2012,201207,Jul-12,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,6549797,,,0
+HS,2012,201207,Jul-12,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4152252814,,,0
+HS,2012,201207,Jul-12,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,927532,,,0
+HS,2012,201207,Jul-12,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,783272,,,0
+HS,2012,201207,Jul-12,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1322977000,,,0
+HS,2012,201208,Aug-12,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4057788,,,0
+HS,2012,201208,Aug-12,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3331419808,,,0
+HS,2012,201208,Aug-12,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1627505,,,0
+HS,2012,201208,Aug-12,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,636104,,,0
+HS,2012,201208,Aug-12,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1297246138,,,0
+HS,2012,201209,Sep-12,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,6335232,,,0
+HS,2012,201209,Sep-12,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,11083,,,0
+HS,2012,201209,Sep-12,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4059722098,,,0
+HS,2012,201209,Sep-12,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4131428,,,0
+HS,2012,201209,Sep-12,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1608054300,,,0
+HS,2012,201209,Sep-12,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,,,145814,,,0
+HS,2016,201604,Apr-16,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,797968,,,0
+HS,2016,201604,Apr-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1078834423,,,0
+HS,2016,201604,Apr-16,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,873454,,,0
+HS,2016,201605,May-16,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,32,,,0
+HS,2017,201707,Jul-17,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2137955,,,0
+HS,2017,201707,Jul-17,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,282,,,0
+HS,2017,201707,Jul-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1867451293,,,0
+HS,2016,201611,Nov-16,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1274553,,,0
+HS,2016,201611,Nov-16,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,915627,,,0
+HS,2016,201611,Nov-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1140277905,,,0
+HS,2017,201704,Apr-17,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2237274,,,0
+HS,2017,201704,Apr-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1651936611,,,0
+HS,2017,201704,Apr-17,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,105,,,0
+HS,2017,201704,Apr-17,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1525119,,,0
+HS,2017,201704,Apr-17,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1881809,,,0
+HS,2017,201704,Apr-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1096470959,,,0
+HS,2016,201607,Jul-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1119293527,,,0
+HS,2016,201607,Jul-16,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,818942,,,0
+HS,2016,201607,Jul-16,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1197376,,,0
+HS,2016,201607,Jul-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1664182697,,,0
+HS,2016,201607,Jul-16,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2104715,,,0
+HS,2016,201609,Sep-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2373334789,,,0
+HS,2016,201609,Sep-16,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,3593592,,,0
+HS,2016,201603,Mar-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1790457671,,,0
+HS,2016,201603,Mar-16,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1354289,,,0
+HS,2016,201603,Mar-16,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,29,,,0
+HS,2016,201603,Mar-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,854218570,,,0
+HS,2016,201603,Mar-16,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,465159,,,0
+HS,2016,201603,Mar-16,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2588550,,,0
+HS,2016,201610,Oct-16,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,280893,,,0
+HS,2016,201610,Oct-16,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1167291,,,0
+HS,2016,201610,Oct-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1268286982,,,0
+HS,2016,201609,Sep-16,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,607102,,,0
+HS,2016,201609,Sep-16,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1670527,,,0
+HS,2016,201606,Jun-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1066086926,,,0
+HS,2016,201606,Jun-16,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,984487,,,0
+HS,2016,201606,Jun-16,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1295655,,,0
+HS,2016,201609,Sep-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1199650947,,,0
+HS,2016,201602,Feb-16,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,19,,,0
+HS,2016,201602,Feb-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,995106496,,,0
+HS,2016,201602,Feb-16,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1782184,,,0
+HS,2016,201606,Jun-16,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,3460512,,,0
+HS,2017,201702,Feb-17,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1265468,,,0
+HS,2017,201702,Feb-17,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,555644,,,0
+HS,2017,201702,Feb-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,750208907,,,0
+HS,2016,201608,Aug-16,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,3605531,,,0
+HS,2016,201608,Aug-16,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2126038,,,0
+HS,2016,201606,Jun-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1780401031,,,0
+HS,2016,201608,Aug-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1248432108,,,0
+HS,2016,201606,Jun-16,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,95,,,0
+HS,2016,201612,Dec-16,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,428144,,,0
+HS,2016,201612,Dec-16,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,11251324,,,0
+HS,2016,201612,Dec-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1074389500,,,0
+HS,2016,201612,Dec-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2752936011,,,0
+HS,2016,201612,Dec-16,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,3345597,,,0
+HS,2016,201602,Feb-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,794970048,,,0
+HS,2016,201602,Feb-16,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,631660,,,0
+HS,2016,201602,Feb-16,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,79920,,,0
+HS,2016,201605,May-16,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,30395622,,,0
+HS,2016,201605,May-16,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1005177,,,0
+HS,2016,201605,May-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,982682634,,,0
+HS,2016,201608,Aug-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1770088770,,,0
+HS,2016,201608,Aug-16,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1810065,,,0
+HS,2016,201610,Oct-16,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,3833255,,,0
+HS,2016,201610,Oct-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1998337209,,,0
+HS,2016,201611,Nov-16,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2762347,,,0
+HS,2016,201611,Nov-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2320251652,,,0
+HS,2017,201709,Sep-17,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,3260973,,,0
+HS,2017,201709,Sep-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2093993663,,,0
+HS,2017,201709,Sep-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1359829125,,,0
+HS,2017,201709,Sep-17,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,881255,,,0
+HS,2017,201709,Sep-17,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,703786,,,0
+HS,2017,201712,Dec-17,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2211998,,,0
+HS,2017,201712,Dec-17,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,133770,,,0
+HS,2017,201712,Dec-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1506006585,,,0
+HS,2017,201710,Oct-17,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1209595,,,0
+HS,2017,201710,Oct-17,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,792683,,,0
+HS,2017,201710,Oct-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1379442600,,,0
+HS,2017,201710,Oct-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1967178697,,,0
+HS,2017,201710,Oct-17,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1864913,,,0
+HS,2017,201711,Nov-17,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,540308,,,0
+HS,2017,201711,Nov-17,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,474247,,,0
+HS,2017,201711,Nov-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1319334005,,,0
+HS,2017,201711,Nov-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2304480264,,,0
+HS,2017,201711,Nov-17,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,3161793,,,0
+HS,2017,201701,Jan-17,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1129191,,,0
+HS,2017,201701,Jan-17,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1370180,,,0
+HS,2017,201701,Jan-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1250531640,,,0
+HS,2017,201701,Jan-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1996328900,,,0
+HS,2017,201701,Jan-17,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,4250,,,0
+HS,2017,201701,Jan-17,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2250238,,,0
+HS,2016,201605,May-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1586904599,,,0
+HS,2016,201605,May-16,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2695922,,,0
+HS,2017,201707,Jul-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1232312176,,,0
+HS,2017,201707,Jul-17,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,868558,,,0
+HS,2017,201707,Jul-17,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,644510,,,0
+HS,2017,201708,Aug-17,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1350,,,0
+HS,2017,201708,Aug-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1945150323,,,0
+HS,2017,201708,Aug-17,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2836091,,,0
+HS,2017,201708,Aug-17,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,817844,,,0
+HS,2017,201708,Aug-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1263206039,,,0
+HS,2017,201708,Aug-17,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2549808,,,0
+HS,2017,201703,Mar-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1094232560,,,0
+HS,2017,201703,Mar-17,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,760859,,,0
+HS,2017,201703,Mar-17,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,843450,,,0
+HS,2017,201703,Mar-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2101215405,,,0
+HS,2017,201703,Mar-17,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1078937,,,0
+HS,2017,201703,Mar-17,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,423571,,,0
+HS,2016,201604,Apr-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1527180716,,,0
+HS,2016,201604,Apr-16,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,3041713,,,0
+HS,2016,201604,Apr-16,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,11083,,,0
+HS,2016,201601,Jan-16,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,439974,,,0
+HS,2016,201601,Jan-16,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2991464,,,0
+HS,2016,201601,Jan-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1022384074,,,0
+HS,2016,201601,Jan-16,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,3890,,,0
+HS,2016,201601,Jan-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1669711908,,,0
+HS,2016,201601,Jan-16,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1780979,,,0
+HS,2017,201712,Dec-17,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1243117,,,0
+HS,2017,201712,Dec-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2242884468,,,0
+HS,2017,201712,Dec-17,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1993,,,0
+HS,2017,201702,Feb-17,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1396178,,,0
+HS,2017,201702,Feb-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1943176710,,,0
+HS,2017,201705,May-17,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,987899,,,0
+HS,2017,201705,May-17,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,749687,,,0
+HS,2017,201705,May-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1240562032,,,0
+HS,2017,201705,May-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2234101955,,,0
+HS,2017,201705,May-17,0,0,1,Imports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,48426,,,0
+HS,2017,201705,May-17,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,3814568,,,0
+HS,2017,201706,Jun-17,0,0,2,Exports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,631702,,,0
+HS,2017,201706,Jun-17,0,0,2,Exports,156,China,,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,,,,,,,0,,802732,,,0
+HS,2017,201706,Jun-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1316630000,,,0
+HS,2017,201706,Jun-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2040697919,,,0
+HS,2017,201706,Jun-17,0,0,1,Imports,156,China,,140,Central African Rep.,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2825881,,,0

@@ -1,0 +1,137 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,28107918,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,12962438,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,479977,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,11369664,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,24388596208,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,0,,0,,14808766628,,,4
+H4,2012,2012,2012,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48619399,,,0
+H4,2012,2012,2012,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17683659,,,0
+H4,2012,2012,2012,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,206234,,,0
+H4,2012,2012,2012,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10242104,,,0
+H4,2012,2012,2012,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44653737210,,,0
+H4,2012,2012,2012,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15323311517,,,0
+H4,2013,2013,2013,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40649156,,,0
+H4,2013,2013,2013,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9458993,,,0
+H4,2013,2013,2013,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,45270,,,0
+H4,2013,2013,2013,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8613715,,,0
+H4,2013,2013,2013,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48388425446,,,0
+H4,2013,2013,2013,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16830776066,,,0
+H4,2014,2014,2014,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29272800,,,0
+H4,2014,2014,2014,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7211752,,,0
+H4,2014,2014,2014,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10903,,,0
+H4,2014,2014,2014,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10775484,,,0
+H4,2014,2014,2014,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44568129974,,,0
+H4,2014,2014,2014,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15699145579,,,0
+H4,2015,2015,2015,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26531973,,,0
+H4,2015,2015,2015,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13518226,,,0
+H4,2015,2015,2015,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,307119,,,0
+H4,2015,2015,2015,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10358390,,,0
+H4,2015,2015,2015,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,30151410452,,,0
+H4,2015,2015,2015,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15857921952,,,0
+H4,2016,2016,2016,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31565170,,,0
+H4,2016,2016,2016,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15462731,,,0
+H4,2016,2016,2016,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15148,,,0
+H4,2016,2016,2016,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52429707,,,0
+H4,2016,2016,2016,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22228893549,,,0
+H4,2016,2016,2016,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12849507644,,,0
+H3,2007,2007,2007,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6611853,,,0
+H3,2007,2007,2007,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8865449,,,0
+H3,2007,2007,2007,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,413396,,,0
+H3,2007,2007,2007,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10881268,,,0
+H3,2007,2007,2007,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6618094263,,,0
+H3,2007,2007,2007,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7444900447,,,0
+H3,2008,2008,2008,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21438597,,,0
+H3,2008,2008,2008,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11295054,,,0
+H3,2008,2008,2008,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,173801,,,0
+H3,2008,2008,2008,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7849507,,,0
+H3,2008,2008,2008,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9234972954,,,0
+H3,2008,2008,2008,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8617621625,,,0
+H3,2009,2009,2009,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14645378,,,0
+H3,2009,2009,2009,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12731811,,,0
+H3,2009,2009,2009,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6030,,,0
+H3,2009,2009,2009,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3906111,,,0
+H3,2009,2009,2009,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8693253033,,,0
+H3,2009,2009,2009,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7365588491,,,0
+H3,2010,2010,2010,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25164045,,,0
+H3,2010,2010,2010,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22857138,,,0
+H3,2010,2010,2010,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14929,,,0
+H3,2010,2010,2010,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5943139,,,0
+H3,2010,2010,2010,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14896422261,,,0
+H3,2010,2010,2010,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10799862041,,,0
+H3,2011,2011,2011,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28137864,,,0
+H3,2011,2011,2011,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14271013,,,0
+H3,2011,2011,2011,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4608723,,,0
+H3,2011,2011,2011,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5356161,,,0
+H3,2011,2011,2011,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,32095190401,,,0
+H3,2011,2011,2011,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13362300051,,,0
+H2,2002,2002,2002,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1257013,,,0
+H2,2002,2002,2002,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,687468,,,0
+H2,2002,2002,2002,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,113494,,,0
+H2,2002,2002,2002,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,801688,,,0
+H2,2002,2002,2002,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1268765741,,,0
+H2,2002,2002,2002,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1310634541,,,0
+H2,2003,2003,2003,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2312529,,,0
+H2,2003,2003,2003,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2127308,,,0
+H2,2003,2003,2003,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16169,,,0
+H2,2003,2003,2003,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1541641,,,0
+H2,2003,2003,2003,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1839993225,,,0
+H2,2003,2003,2003,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2029363726,,,0
+H2,2004,2004,2004,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6245300,,,0
+H2,2004,2004,2004,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3323713,,,0
+H2,2004,2004,2004,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1220234,,,0
+H2,2004,2004,2004,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2960203427,,,0
+H2,2004,2004,2004,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2951903935,,,0
+H2,2005,2005,2005,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8990376,,,0
+H2,2005,2005,2005,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7087933,,,0
+H2,2005,2005,2005,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,398315,,,0
+H2,2005,2005,2005,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1962007,,,0
+H2,2005,2005,2005,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3443051908,,,0
+H2,2005,2005,2005,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3825965079,,,0
+H2,2006,2006,2006,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8608876,,,0
+H2,2006,2006,2006,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1692692,,,0
+H2,2006,2006,2006,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,691729,,,0
+H2,2006,2006,2006,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1872615,,,0
+H2,2006,2006,2006,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4085358057,,,0
+H2,2006,2006,2006,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5767709102,,,0
+H1,1996,1996,1996,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2848702,,,0
+H1,1996,1996,1996,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2276617,,,0
+H1,1996,1996,1996,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2783006,,,0
+H1,1997,1997,1997,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1078093,,,0
+H1,1997,1997,1997,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,835271,,,0
+H1,1997,1997,1997,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2004084,,,0
+H1,1997,1997,1997,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,605134,,,0
+H1,1998,1998,1998,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9606,,,0
+H1,1998,1998,1998,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1059302,,,0
+H1,1998,1998,1998,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16169,,,0
+H1,1998,1998,1998,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,370303,,,0
+H1,1999,1999,1999,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1007528,,,0
+H1,1999,1999,1999,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,64000,,,0
+H1,1999,1999,1999,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1754786,,,0
+H1,2000,2000,2000,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,300696,,,0
+H1,2000,2000,2000,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,342819,,,0
+H1,2000,2000,2000,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262957,,,0
+H1,2000,2000,2000,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4474583,,,0
+H1,2000,2000,2000,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1037289908,,,0
+H1,2000,2000,2000,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1013645537,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1389670,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,567341,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,776798,,,0
+H1,2001,2001,2001,0,0,1,Import,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1173201416,,,0
+H1,2001,2001,2001,0,0,2,Export,156,China,CHN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1048574038,,,0
+H0,1992,1992,1992,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8526,,,0
+H0,1992,1992,1992,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161294,,,0
+H0,1992,1992,1992,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4472560,,,0
+H0,1992,1992,1992,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1499193,,,0
+H0,1993,1993,1993,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58021,,,0
+H0,1993,1993,1993,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3216817,,,0
+H0,1993,1993,1993,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2695501,,,0
+H0,1993,1993,1993,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5238917,,,0
+H0,1994,1994,1994,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168533,,,0
+H0,1994,1994,1994,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199182,,,0
+H0,1994,1994,1994,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1008514,,,0
+H0,1994,1994,1994,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4896146,,,0
+H0,1995,1995,1995,0,0,1,Import,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161839,,,0
+H0,1995,1995,1995,0,0,2,Export,156,China,CHN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,983557,,,0
+H0,1995,1995,1995,0,0,1,Import,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1818494,,,0
+H0,1995,1995,1995,0,0,2,Export,156,China,CHN,577,"Other Africa, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2049698,,,0

@@ -1,0 +1,571 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2011,201107,Jul-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2042666074,,,0
+HS,2011,201107,Jul-11,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1605707888,,,0
+HS,2011,201107,Jul-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1176742767,,,0
+HS,2011,201107,Jul-11,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,265267267,,,0
+HS,2011,201101,Jan-11,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1646952212,,,0
+HS,2011,201101,Jan-11,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4404083,,,0
+HS,2011,201101,Jan-11,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,85892664,,,0
+HS,2011,201101,Jan-11,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,134538045,,,0
+HS,2011,201101,Jan-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2369672131,,,0
+HS,2011,201101,Jan-11,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,167853040,,,0
+HS,2011,201101,Jan-11,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,268897872,,,0
+HS,2011,201101,Jan-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1090046655,,,0
+HS,2011,201101,Jan-11,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,826772258,,,0
+HS,2011,201101,Jan-11,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,665304378,,,0
+HS,2010,201010,Oct-10,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,220682814,,,0
+HS,2010,201002,Feb-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1026971281,,,0
+HS,2010,201002,Feb-10,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,27847912,,,0
+HS,2010,201002,Feb-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,670352646,,,0
+HS,2010,201002,Feb-10,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,440544206,,,0
+HS,2010,201003,Mar-10,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,33370541,,,0
+HS,2011,201112,Dec-11,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,6238938,,,0
+HS,2011,201112,Dec-11,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,221567738,,,0
+HS,2011,201112,Dec-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2941089214,,,0
+HS,2011,201112,Dec-11,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,37310974,,,0
+HS,2011,201112,Dec-11,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,696006831,,,0
+HS,2012,201201,Jan-12,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1163722438,,,0
+HS,2012,201201,Jan-12,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,677415356,,,0
+HS,2012,201201,Jan-12,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4107479,,,0
+HS,2012,201201,Jan-12,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,147090257,,,0
+HS,2012,201201,Jan-12,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1894591924,,,0
+HS,2012,201201,Jan-12,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,6296334,,,0
+HS,2012,201202,Feb-12,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,572270640,,,0
+HS,2012,201202,Feb-12,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,328118315,,,0
+HS,2012,201202,Feb-12,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,44872979,,,0
+HS,2012,201202,Feb-12,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2876655711,,,0
+HS,2012,201202,Feb-12,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4584349,,,0
+HS,2012,201202,Feb-12,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,122078381,,,0
+HS,2012,201203,Mar-12,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,36221395,,,0
+HS,2012,201205,May-12,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4500438764,,,0
+HS,2012,201206,Jun-12,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4257767383,,,0
+HS,2012,201206,Jun-12,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,34750764,,,0
+HS,2012,201206,Jun-12,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,358467732,,,0
+HS,2012,201206,Jun-12,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,316492474,,,0
+HS,2012,201206,Jun-12,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,740384358,,,0
+HS,2012,201206,Jun-12,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1309890512,,,0
+HS,2012,201206,Jun-12,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,807533694,,,0
+HS,2012,201207,Jul-12,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,147793550,,,0
+HS,2012,201207,Jul-12,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,303064902,,,0
+HS,2012,201207,Jul-12,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4152252814,,,0
+HS,2012,201207,Jul-12,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,412680834,,,0
+HS,2012,201207,Jul-12,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1322977000,,,0
+HS,2012,201207,Jul-12,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,610349823,,,0
+HS,2012,201207,Jul-12,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,829884907,,,0
+HS,2012,201207,Jul-12,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,248686235,,,0
+HS,2012,201208,Aug-12,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,36280740,,,0
+HS,2012,201208,Aug-12,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1297246138,,,0
+HS,2012,201208,Aug-12,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,815855798,,,0
+HS,2012,201208,Aug-12,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,662558392,,,0
+HS,2012,201209,Sep-12,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3004129,,,0
+HS,2012,201209,Sep-12,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,58285698,,,0
+HS,2012,201209,Sep-12,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4059722098,,,0
+HS,2012,201209,Sep-12,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,34168474,,,0
+HS,2012,201209,Sep-12,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,868123378,,,0
+HS,2012,201209,Sep-12,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,771504541,,,0
+HS,2012,201209,Sep-12,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1608054300,,,0
+HS,2016,201604,Apr-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1078834423,,,0
+HS,2016,201604,Apr-16,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,923039003,,,0
+HS,2017,201707,Jul-17,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1424464199,,,0
+HS,2017,201707,Jul-17,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,18172304,,,0
+HS,2017,201707,Jul-17,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,43848779,,,0
+HS,2017,201707,Jul-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1867451293,,,0
+HS,2017,201707,Jul-17,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,105739217,,,0
+HS,2016,201611,Nov-16,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,477579347,,,0
+HS,2016,201611,Nov-16,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,749693955,,,0
+HS,2017,201704,Apr-17,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,114668326,,,0
+HS,2017,201704,Apr-17,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1089031627,,,0
+HS,2017,201704,Apr-17,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,487352051,,,0
+HS,2017,201704,Apr-17,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,807706773,,,0
+HS,2016,201607,Jul-16,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,211590875,,,0
+HS,2016,201607,Jul-16,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,536052489,,,0
+HS,2016,201607,Jul-16,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,865445782,,,0
+HS,2016,201607,Jul-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1119293527,,,0
+HS,2016,201607,Jul-16,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,19871255,,,0
+HS,2016,201607,Jul-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1664182697,,,0
+HS,2016,201607,Jul-16,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,66819878,,,0
+HS,2016,201607,Jul-16,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,6154893,,,0
+HS,2016,201607,Jul-16,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1653714413,,,0
+HS,2016,201609,Sep-16,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,117361748,,,0
+HS,2016,201609,Sep-16,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,9780702,,,0
+HS,2016,201609,Sep-16,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1420227847,,,0
+HS,2016,201603,Mar-16,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,27947265,,,0
+HS,2016,201603,Mar-16,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,90160919,,,0
+HS,2016,201603,Mar-16,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,547311934,,,0
+HS,2016,201603,Mar-16,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,332943901,,,0
+HS,2016,201603,Mar-16,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,63303032,,,0
+HS,2016,201609,Sep-16,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,179182969,,,0
+HS,2016,201609,Sep-16,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,459857999,,,0
+HS,2016,201609,Sep-16,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,753714449,,,0
+HS,2016,201609,Sep-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1199650947,,,0
+HS,2016,201606,Jun-16,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,108536873,,,0
+HS,2016,201602,Feb-16,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,17778902,,,0
+HS,2016,201602,Feb-16,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,87797422,,,0
+HS,2016,201602,Feb-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,995106496,,,0
+HS,2016,201602,Feb-16,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1241590526,,,0
+HS,2016,201602,Feb-16,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,5949636,,,0
+HS,2017,201702,Feb-17,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,482545216,,,0
+HS,2017,201702,Feb-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,750208907,,,0
+HS,2017,201702,Feb-17,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,464697137,,,0
+HS,2017,201702,Feb-17,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,82043161,,,0
+HS,2017,201702,Feb-17,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,303708184,,,0
+HS,2016,201608,Aug-16,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,958713222,,,0
+HS,2016,201608,Aug-16,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,115226013,,,0
+HS,2016,201606,Jun-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1780401031,,,0
+HS,2016,201606,Jun-16,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1257272881,,,0
+HS,2016,201606,Jun-16,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,9583358,,,0
+HS,2016,201606,Jun-16,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,146909809,,,0
+HS,2016,201612,Dec-16,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,525727334,,,0
+HS,2016,201612,Dec-16,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1067836326,,,0
+HS,2016,201612,Dec-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1074389500,,,0
+HS,2016,201612,Dec-16,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,178110494,,,0
+HS,2016,201612,Dec-16,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,875753170,,,0
+HS,2016,201612,Dec-16,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,98125049,,,0
+HS,2016,201612,Dec-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2752936011,,,0
+HS,2016,201612,Dec-16,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1190894274,,,0
+HS,2016,201602,Feb-16,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,270643784,,,0
+HS,2016,201602,Feb-16,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,106087818,,,0
+HS,2016,201602,Feb-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,794970048,,,0
+HS,2016,201602,Feb-16,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,603272266,,,0
+HS,2016,201602,Feb-16,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,745693764,,,0
+HS,2011,201107,Jul-11,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,169640092,,,0
+HS,2016,201605,May-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,982682634,,,0
+HS,2016,201605,May-16,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,126482458,,,0
+HS,2016,201605,May-16,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,491864263,,,0
+HS,2016,201605,May-16,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,969083895,,,0
+HS,2011,201107,Jul-11,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,161667947,,,0
+HS,2011,201107,Jul-11,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3533460,,,0
+HS,2011,201107,Jul-11,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,187212682,,,0
+HS,2011,201107,Jul-11,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,707068273,,,0
+HS,2011,201107,Jul-11,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,873325629,,,0
+HS,2011,201105,May-11,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,201088357,,,0
+HS,2011,201105,May-11,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,814839402,,,0
+HS,2016,201610,Oct-16,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,822409141,,,0
+HS,2016,201610,Oct-16,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,14741539,,,0
+HS,2016,201610,Oct-16,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,8057490,,,0
+HS,2011,201102,Feb-11,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,40655849,,,0
+HS,2010,201008,Aug-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1037643582,,,0
+HS,2016,201611,Nov-16,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,33329684,,,0
+HS,2016,201611,Nov-16,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1275151389,,,0
+HS,2016,201611,Nov-16,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,10555874,,,0
+HS,2011,201105,May-11,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,6318626,,,0
+HS,2011,201105,May-11,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,236446440,,,0
+HS,2010,201008,Aug-10,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,118395605,,,0
+HS,2011,201105,May-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2778143205,,,0
+HS,2017,201709,Sep-17,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,15940029,,,0
+HS,2017,201709,Sep-17,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,362667240,,,0
+HS,2017,201709,Sep-17,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,211288722,,,0
+HS,2017,201709,Sep-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1359829125,,,0
+HS,2017,201709,Sep-17,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,721553861,,,0
+HS,2017,201709,Sep-17,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,917981141,,,0
+HS,2011,201102,Feb-11,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,88257545,,,0
+HS,2011,201105,May-11,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2447848694,,,0
+HS,2017,201712,Dec-17,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,445478394,,,0
+HS,2017,201712,Dec-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1506006585,,,0
+HS,2017,201712,Dec-17,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,996814553,,,0
+HS,2011,201102,Feb-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,588932742,,,0
+HS,2011,201102,Feb-11,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,83656669,,,0
+HS,2017,201710,Oct-17,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,354818672,,,0
+HS,2017,201710,Oct-17,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,216766908,,,0
+HS,2017,201710,Oct-17,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,720314590,,,0
+HS,2010,201008,Aug-10,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,548548703,,,0
+HS,2011,201105,May-11,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,185061203,,,0
+HS,2011,201105,May-11,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,635385261,,,0
+HS,2011,201105,May-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1036157999,,,0
+HS,2011,201105,May-11,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,14840623,,,0
+HS,2017,201711,Nov-17,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,214867181,,,0
+HS,2017,201711,Nov-17,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,479908357,,,0
+HS,2017,201711,Nov-17,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,943871210,,,0
+HS,2011,201102,Feb-11,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,430715515,,,0
+HS,2011,201102,Feb-11,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,328088877,,,0
+HS,2017,201711,Nov-17,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,166152521,,,0
+HS,2017,201711,Nov-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2304480264,,,0
+HS,2017,201711,Nov-17,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1729791944,,,0
+HS,2011,201102,Feb-11,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1840317896,,,0
+HS,2010,201008,Aug-10,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,473838789,,,0
+HS,2017,201701,Jan-17,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,522264205,,,0
+HS,2017,201701,Jan-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1250531640,,,0
+HS,2017,201701,Jan-17,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,788237009,,,0
+HS,2010,201008,Aug-10,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2233320692,,,0
+HS,2010,201008,Aug-10,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,14878527,,,0
+HS,2017,201701,Jan-17,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,9626930,,,0
+HS,2017,201701,Jan-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1996328900,,,0
+HS,2017,201701,Jan-17,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,98399985,,,0
+HS,2017,201701,Jan-17,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,104351457,,,0
+HS,2010,201007,Jul-10,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,681243605,,,0
+HS,2010,201007,Jul-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1259666607,,,0
+HS,2011,201102,Feb-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2530094276,,,0
+HS,2011,201102,Feb-11,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,338561762,,,0
+HS,2016,201605,May-16,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,6643478,,,0
+HS,2016,201605,May-16,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,29950353,,,0
+HS,2010,201007,Jul-10,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,162354210,,,0
+HS,2017,201707,Jul-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1232312176,,,0
+HS,2017,201707,Jul-17,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,815668949,,,0
+HS,2017,201707,Jul-17,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,359497504,,,0
+HS,2010,201008,Aug-10,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,178985205,,,0
+HS,2017,201708,Aug-17,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1560546938,,,0
+HS,2017,201708,Aug-17,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,150722905,,,0
+HS,2017,201708,Aug-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1945150323,,,0
+HS,2017,201708,Aug-17,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,97653723,,,0
+HS,2011,201102,Feb-11,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1136746,,,0
+HS,2017,201708,Aug-17,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,795844489,,,0
+HS,2017,201708,Aug-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1263206039,,,0
+HS,2017,201708,Aug-17,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,191843672,,,0
+HS,2010,201008,Aug-10,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4211513,,,0
+HS,2010,201008,Aug-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,959905627,,,0
+HS,2010,201007,Jul-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,975123586,,,0
+HS,2017,201703,Mar-17,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,376900656,,,0
+HS,2017,201703,Mar-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1094232560,,,0
+HS,2017,201703,Mar-17,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,156226516,,,0
+HS,2017,201703,Mar-17,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,686640989,,,0
+HS,2017,201703,Mar-17,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,10171328,,,0
+HS,2017,201703,Mar-17,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1941894733,,,0
+HS,2017,201703,Mar-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2101215405,,,0
+HS,2017,201703,Mar-17,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,151313631,,,0
+HS,2017,201703,Mar-17,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,144434399,,,0
+HS,2016,201604,Apr-16,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1171094099,,,0
+HS,2016,201604,Apr-16,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,6704726,,,0
+HS,2016,201604,Apr-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1527180716,,,0
+HS,2016,201604,Apr-16,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,44494451,,,0
+HS,2010,201007,Jul-10,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,572576424,,,0
+HS,2016,201601,Jan-16,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1040326306,,,0
+HS,2016,201601,Jan-16,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,760368640,,,0
+HS,2016,201601,Jan-16,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,424051832,,,0
+HS,2016,201601,Jan-16,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,144153156,,,0
+HS,2016,201601,Jan-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1022384074,,,0
+HS,2016,201601,Jan-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1669711908,,,0
+HS,2016,201601,Jan-16,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,5703073,,,0
+HS,2016,201601,Jan-16,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,78738385,,,0
+HS,2016,201601,Jan-16,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,921243566,,,0
+HS,2016,201601,Jan-16,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,19801221,,,0
+HS,2017,201712,Dec-17,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1559874955,,,0
+HS,2017,201712,Dec-17,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,14594158,,,0
+HS,2017,201712,Dec-17,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,118906334,,,0
+HS,2017,201712,Dec-17,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,173946968,,,0
+HS,2017,201712,Dec-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2242884468,,,0
+HS,2017,201702,Feb-17,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1375926051,,,0
+HS,2017,201702,Feb-17,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,170197775,,,0
+HS,2017,201702,Feb-17,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,10572794,,,0
+HS,2010,201008,Aug-10,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,172166166,,,0
+HS,2010,201007,Jul-10,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,20638928,,,0
+HS,2011,201109,Sep-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3045976831,,,0
+HS,2010,201007,Jul-10,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,106978014,,,0
+HS,2017,201705,May-17,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,240540805,,,0
+HS,2017,201705,May-17,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1287303348,,,0
+HS,2017,201705,May-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1240562032,,,0
+HS,2017,201705,May-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2234101955,,,0
+HS,2017,201705,May-17,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,16571176,,,0
+HS,2017,201705,May-17,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,133796048,,,0
+HS,2017,201705,May-17,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2215959112,,,0
+HS,2017,201705,May-17,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,155854376,,,0
+HS,2011,201109,Sep-11,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,264464491,,,0
+HS,2017,201706,Jun-17,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,464134944,,,0
+HS,2017,201706,Jun-17,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1165787648,,,0
+HS,2017,201706,Jun-17,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,843742515,,,0
+HS,2017,201706,Jun-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1316630000,,,0
+HS,2010,201007,Jul-10,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,146680447,,,0
+HS,2017,201706,Jun-17,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,12245588,,,0
+HS,2017,201706,Jun-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2040697919,,,0
+HS,2017,201706,Jun-17,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,111347879,,,0
+HS,2017,201706,Jun-17,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,80777661,,,0
+HS,2011,201109,Sep-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1334733770,,,0
+HS,2011,201104,Apr-11,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,735907412,,,0
+HS,2011,201104,Apr-11,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3905549,,,0
+HS,2011,201104,Apr-11,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2203393798,,,0
+HS,2011,201108,Aug-11,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,651828328,,,0
+HS,2010,201007,Jul-10,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3595530,,,0
+HS,2010,201007,Jul-10,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1260485481,,,0
+HS,2011,201104,Apr-11,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,382772328,,,0
+HS,2011,201108,Aug-11,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,259355324,,,0
+HS,2011,201109,Sep-11,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,166701456,,,0
+HS,2011,201109,Sep-11,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2142638938,,,0
+HS,2011,201109,Sep-11,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4129312,,,0
+HS,2011,201104,Apr-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2684432404,,,0
+HS,2011,201108,Aug-11,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,154127652,,,0
+HS,2011,201104,Apr-11,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,21550438,,,0
+HS,2011,201108,Aug-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2468679480,,,0
+HS,2011,201109,Sep-11,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,602166664,,,0
+HS,2011,201104,Apr-11,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,240108542,,,0
+HS,2011,201109,Sep-11,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,224872533,,,0
+HS,2011,201108,Aug-11,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,150899865,,,0
+HS,2011,201106,Jun-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1040236678,,,0
+HS,2011,201106,Jun-11,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,93934510,,,0
+HS,2011,201106,Jun-11,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,61409275,,,0
+HS,2011,201104,Apr-11,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,189802192,,,0
+HS,2011,201109,Sep-11,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,158880328,,,0
+HS,2011,201108,Aug-11,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2558632883,,,0
+HS,2011,201109,Sep-11,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,812883508,,,0
+HS,2011,201108,Aug-11,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,856749591,,,0
+HS,2011,201108,Aug-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1332293966,,,0
+HS,2011,201104,Apr-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1081762727,,,0
+HS,2011,201104,Apr-11,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,480733441,,,0
+HS,2011,201108,Aug-11,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4312363,,,0
+HS,2011,201108,Aug-11,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,263438897,,,0
+HS,2011,201103,Mar-11,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,160779978,,,0
+HS,2011,201103,Mar-11,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,7613288,,,0
+HS,2011,201103,Mar-11,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,168346681,,,0
+HS,2011,201103,Mar-11,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2148554694,,,0
+HS,2011,201103,Mar-11,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,127525265,,,0
+HS,2011,201103,Mar-11,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,41910910,,,0
+HS,2011,201103,Mar-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,994787183,,,0
+HS,2011,201103,Mar-11,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,684552494,,,0
+HS,2011,201103,Mar-11,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,310503930,,,0
+HS,2011,201103,Mar-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2587182752,,,0
+HS,2010,201006,Jun-10,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,152275588,,,0
+HS,2010,201006,Jun-10,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,153731490,,,0
+HS,2010,201006,Jun-10,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,604308123,,,0
+HS,2010,201006,Jun-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,920158142,,,0
+HS,2010,201006,Jun-10,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3815857,,,0
+HS,2010,201012,Dec-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2031392519,,,0
+HS,2010,201009,Sep-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1025574927,,,0
+HS,2010,201006,Jun-10,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,181139736,,,0
+HS,2010,201006,Jun-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,926866598,,,0
+HS,2010,201009,Sep-10,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,219938636,,,0
+HS,2010,201012,Dec-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,962233809,,,0
+HS,2010,201012,Dec-10,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2783856,,,0
+HS,2010,201012,Dec-10,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,184759337,,,0
+HS,2010,201006,Jun-10,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,130058161,,,0
+HS,2010,201006,Jun-10,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,565139877,,,0
+HS,2010,201006,Jun-10,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2198129941,,,0
+HS,2010,201012,Dec-10,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,38451287,,,0
+HS,2010,201009,Sep-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1212871133,,,0
+HS,2010,201010,Oct-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1047628553,,,0
+HS,2010,201012,Dec-10,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,552922941,,,0
+HS,2010,201010,Oct-10,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,173287064,,,0
+HS,2010,201010,Oct-10,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,497352831,,,0
+HS,2010,201010,Oct-10,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,93990376,,,0
+HS,2010,201009,Sep-10,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,195346540,,,0
+HS,2010,201012,Dec-10,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,161082610,,,0
+HS,2010,201010,Oct-10,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2863931,,,0
+HS,2010,201012,Dec-10,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1659364481,,,0
+HS,2010,201010,Oct-10,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1002222481,,,0
+HS,2010,201012,Dec-10,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,736415521,,,0
+HS,2010,201009,Sep-10,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,469380227,,,0
+HS,2010,201009,Sep-10,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,216831482,,,0
+HS,2010,201012,Dec-10,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,141771433,,,0
+HS,2010,201009,Sep-10,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2317647118,,,0
+HS,2010,201009,Sep-10,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,605195326,,,0
+HS,2010,201005,May-10,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,565969150,,,0
+HS,2010,201011,Nov-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2192452572,,,0
+HS,2010,201010,Oct-10,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,413590763,,,0
+HS,2010,201011,Nov-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1045977185,,,0
+HS,2010,201011,Nov-10,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,184715808,,,0
+HS,2010,201005,May-10,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,652176830,,,0
+HS,2010,201005,May-10,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2010149021,,,0
+HS,2010,201009,Sep-10,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,13685395,,,0
+HS,2010,201009,Sep-10,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4346042,,,0
+HS,2010,201010,Oct-10,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,18288499,,,0
+HS,2010,201005,May-10,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,28681392,,,0
+HS,2010,201011,Nov-10,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,655650299,,,0
+HS,2010,201005,May-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1119191529,,,0
+HS,2010,201011,Nov-10,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,25756059,,,0
+HS,2010,201011,Nov-10,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2682804,,,0
+HS,2010,201005,May-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,877692625,,,0
+HS,2010,201010,Oct-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1078966713,,,0
+HS,2010,201005,May-10,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,99696963,,,0
+HS,2010,201005,May-10,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3752101,,,0
+HS,2010,201011,Nov-10,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,179698551,,,0
+HS,2010,201002,Feb-10,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,166074561,,,0
+HS,2010,201005,May-10,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,155869445,,,0
+HS,2010,201011,Nov-10,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1791166954,,,0
+HS,2010,201011,Nov-10,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,498993514,,,0
+HS,2010,201005,May-10,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,149398916,,,0
+HS,2010,201002,Feb-10,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,195374781,,,0
+HS,2010,201002,Feb-10,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2862238,,,0
+HS,2010,201002,Feb-10,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1465733421,,,0
+HS,2010,201011,Nov-10,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,37542926,,,0
+HS,2010,201002,Feb-10,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,105391988,,,0
+HS,2010,201002,Feb-10,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,406475514,,,0
+HS,2010,201003,Mar-10,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2534362263,,,0
+HS,2010,201003,Mar-10,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,103316854,,,0
+HS,2010,201003,Mar-10,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3939338,,,0
+HS,2010,201003,Mar-10,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,415254159,,,0
+HS,2010,201001,Jan-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,760036685,,,0
+HS,2010,201003,Mar-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,967256338,,,0
+HS,2010,201001,Jan-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,758174146,,,0
+HS,2010,201003,Mar-10,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,86605563,,,0
+HS,2010,201001,Jan-10,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,189931274,,,0
+HS,2010,201001,Jan-10,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1849694488,,,0
+HS,2010,201001,Jan-10,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,102880113,,,0
+HS,2010,201003,Mar-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,723616325,,,0
+HS,2010,201001,Jan-10,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,164077213,,,0
+HS,2010,201003,Mar-10,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,409941451,,,0
+HS,2011,201112,Dec-11,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2311181209,,,0
+HS,2010,201003,Mar-10,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,101256673,,,0
+HS,2010,201001,Jan-10,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,477069419,,,0
+HS,2010,201004,Apr-10,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,457878295,,,0
+HS,2010,201001,Jan-10,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,538064362,,,0
+HS,2010,201004,Apr-10,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,501014737,,,0
+HS,2010,201001,Jan-10,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,8730536,,,0
+HS,2010,201001,Jan-10,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1888372,,,0
+HS,2010,201004,Apr-10,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,30698444,,,0
+HS,2010,201004,Apr-10,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,832563987,,,0
+HS,2010,201004,Apr-10,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,142934973,,,0
+HS,2010,201004,Apr-10,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2391808,,,0
+HS,2010,201004,Apr-10,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2487822559,,,0
+HS,2010,201004,Apr-10,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,133522014,,,0
+HS,2010,201004,Apr-10,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1228845341,,,0
+HS,2010,201004,Apr-10,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,108814312,,,0
+HS,2011,201110,Oct-11,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,578991363,,,0
+HS,2011,201110,Oct-11,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1808407418,,,0
+HS,2011,201112,Dec-11,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,256325580,,,0
+HS,2011,201112,Dec-11,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,212532321,,,0
+HS,2011,201112,Dec-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1056772859,,,0
+HS,2011,201112,Dec-11,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,841525223,,,0
+HS,2011,201110,Oct-11,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,714043767,,,0
+HS,2011,201111,Nov-11,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,835961760,,,0
+HS,2011,201110,Oct-11,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,278349771,,,0
+HS,2011,201111,Nov-11,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,6643622,,,0
+HS,2011,201111,Nov-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1284942778,,,0
+HS,2011,201110,Oct-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2430367293,,,0
+HS,2011,201111,Nov-11,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,297030161,,,0
+HS,2011,201110,Oct-11,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,43970749,,,0
+HS,2011,201111,Nov-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3789549136,,,0
+HS,2011,201110,Oct-11,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,6971243,,,0
+HS,2011,201110,Oct-11,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,85720135,,,0
+HS,2011,201111,Nov-11,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,37659379,,,0
+HS,2011,201110,Oct-11,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,244678765,,,0
+HS,2011,201110,Oct-11,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1351780933,,,0
+HS,2011,201111,Nov-11,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,745362980,,,0
+HS,2011,201111,Nov-11,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,125961768,,,0
+HS,2011,201111,Nov-11,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2458541923,,,0
+HS,2011,201111,Nov-11,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,251386104,,,0
+HS,2011,201106,Jun-11,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1717120470,,,0
+HS,2011,201106,Jun-11,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,780093020,,,0
+HS,2011,201106,Jun-11,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,883589407,,,0
+HS,2011,201106,Jun-11,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,208451817,,,0
+HS,2011,201106,Jun-11,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,9667303,,,0
+HS,2011,201106,Jun-11,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,185817939,,,0
+HS,2011,201106,Jun-11,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2397478557,,,0
+HS,2012,201201,Jan-12,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,242151509,,,0
+HS,2012,201201,Jan-12,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,203360552,,,0
+HS,2012,201201,Jan-12,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,683290253,,,0
+HS,2012,201201,Jan-12,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2254719689,,,0
+HS,2012,201202,Feb-12,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,89432302,,,0
+HS,2012,201202,Feb-12,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,147864001,,,0
+HS,2012,201202,Feb-12,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,432860715,,,0
+HS,2012,201202,Feb-12,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2589034685,,,0
+HS,2012,201203,Mar-12,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4660055,,,0
+HS,2012,201203,Mar-12,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,209702061,,,0
+HS,2012,201203,Mar-12,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,288404483,,,0
+HS,2012,201203,Mar-12,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4727072143,,,0
+HS,2012,201203,Mar-12,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3168443693,,,0
+HS,2012,201203,Mar-12,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,158857896,,,0
+HS,2012,201203,Mar-12,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,713952145,,,0
+HS,2012,201203,Mar-12,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1118513683,,,0
+HS,2012,201203,Mar-12,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,589622075,,,0
+HS,2012,201204,Apr-12,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,728214506,,,0
+HS,2012,201204,Apr-12,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,253741473,,,0
+HS,2012,201204,Apr-12,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,728530603,,,0
+HS,2012,201204,Apr-12,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4225713453,,,0
+HS,2012,201204,Apr-12,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,202361811,,,0
+HS,2012,201204,Apr-12,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,44930103,,,0
+HS,2012,201204,Apr-12,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3489317583,,,0
+HS,2012,201204,Apr-12,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,45615349,,,0
+HS,2012,201204,Apr-12,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1149050282,,,0
+HS,2012,201204,Apr-12,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3814588,,,0
+HS,2012,201205,May-12,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,395064372,,,0
+HS,2012,201205,May-12,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,879388776,,,0
+HS,2012,201205,May-12,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,909076165,,,0
+HS,2012,201205,May-12,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,154662491,,,0
+HS,2012,201205,May-12,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1180441079,,,0
+HS,2012,201205,May-12,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3564856908,,,0
+HS,2012,201205,May-12,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,,,41715842,,,0
+HS,2012,201205,May-12,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,256960023,,,0
+HS,2012,201205,May-12,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,6324548,,,0
+HS,2012,201206,Jun-12,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3186742300,,,0
+HS,2012,201206,Jun-12,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,5981521,,,0
+HS,2012,201206,Jun-12,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,340749322,,,0
+HS,2012,201207,Jul-12,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2641351891,,,0
+HS,2012,201207,Jul-12,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4010955,,,0
+HS,2012,201208,Aug-12,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,1955885114,,,0
+HS,2012,201208,Aug-12,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,4745948,,,0
+HS,2012,201208,Aug-12,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,,,116730307,,,0
+HS,2012,201208,Aug-12,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,,,3331419808,,,0
+HS,2012,201208,Aug-12,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,272906339,,,0
+HS,2012,201208,Aug-12,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,416788122,,,0
+HS,2012,201209,Sep-12,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,2967898313,,,0
+HS,2012,201209,Sep-12,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,,,248340311,,,0
+HS,2012,201209,Sep-12,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,,,437597730,,,0
+HS,2016,201604,Apr-16,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,751684405,,,0
+HS,2016,201604,Apr-16,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,108869946,,,0
+HS,2016,201604,Apr-16,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,523531061,,,0
+HS,2016,201611,Nov-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1140277905,,,0
+HS,2016,201611,Nov-16,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,742662431,,,0
+HS,2016,201611,Nov-16,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,166260478,,,0
+HS,2017,201704,Apr-17,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1900228858,,,0
+HS,2017,201704,Apr-17,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,10267146,,,0
+HS,2017,201704,Apr-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1651936611,,,0
+HS,2017,201704,Apr-17,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,125492217,,,0
+HS,2017,201704,Apr-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1096470959,,,0
+HS,2017,201704,Apr-17,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,178490216,,,0
+HS,2016,201607,Jul-16,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,959891800,,,0
+HS,2016,201609,Sep-16,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,21740898,,,0
+HS,2016,201609,Sep-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2373334789,,,0
+HS,2016,201603,Mar-16,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,7715114,,,0
+HS,2016,201603,Mar-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1790457671,,,0
+HS,2016,201603,Mar-16,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,942834546,,,0
+HS,2016,201603,Mar-16,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,774768451,,,0
+HS,2016,201603,Mar-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,854218570,,,0
+HS,2016,201610,Oct-16,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,172594512,,,0
+HS,2016,201610,Oct-16,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,461002811,,,0
+HS,2016,201610,Oct-16,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,716833258,,,0
+HS,2016,201610,Oct-16,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,808410769,,,0
+HS,2016,201610,Oct-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1268286982,,,0
+HS,2016,201609,Sep-16,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,774963584,,,0
+HS,2016,201606,Jun-16,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,559838729,,,0
+HS,2016,201606,Jun-16,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,999525619,,,0
+HS,2016,201606,Jun-16,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,963376458,,,0
+HS,2016,201606,Jun-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1066086926,,,0
+HS,2016,201606,Jun-16,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,28902418,,,0
+HS,2016,201608,Aug-16,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,524553271,,,0
+HS,2016,201608,Aug-16,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,880745198,,,0
+HS,2016,201608,Aug-16,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1248432108,,,0
+HS,2016,201612,Dec-16,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,92069515,,,0
+HS,2016,201612,Dec-16,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,9441405,,,0
+HS,2016,201605,May-16,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,917053719,,,0
+HS,2016,201608,Aug-16,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,73326890,,,0
+HS,2016,201608,Aug-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1770088770,,,0
+HS,2016,201608,Aug-16,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,42942950,,,0
+HS,2016,201608,Aug-16,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,10845746,,,0
+HS,2016,201608,Aug-16,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1080568903,,,0
+HS,2016,201610,Oct-16,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,18002179,,,0
+HS,2016,201610,Oct-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1998337209,,,0
+HS,2016,201611,Nov-16,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,63706232,,,0
+HS,2016,201611,Nov-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2320251652,,,0
+HS,2017,201709,Sep-17,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1963643435,,,0
+HS,2017,201709,Sep-17,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,206894057,,,0
+HS,2017,201709,Sep-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,2093993663,,,0
+HS,2017,201709,Sep-17,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,83577815,,,0
+HS,2017,201712,Dec-17,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,201292320,,,0
+HS,2017,201712,Dec-17,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1234154115,,,0
+HS,2017,201710,Oct-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1379442600,,,0
+HS,2017,201710,Oct-17,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,990746210,,,0
+HS,2017,201710,Oct-17,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,102804466,,,0
+HS,2017,201710,Oct-17,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,12592674,,,0
+HS,2017,201710,Oct-17,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1552928345,,,0
+HS,2017,201710,Oct-17,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,121929216,,,0
+HS,2017,201710,Oct-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1967178697,,,0
+HS,2017,201711,Nov-17,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1109073274,,,0
+HS,2017,201711,Nov-17,0,0,2,Exports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1319334005,,,0
+HS,2017,201711,Nov-17,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,146984033,,,0
+HS,2017,201711,Nov-17,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,21263567,,,0
+HS,2017,201701,Jan-17,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,915376153,,,0
+HS,2017,201701,Jan-17,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,162746867,,,0
+HS,2017,201701,Jan-17,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1914139293,,,0
+HS,2016,201605,May-16,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1586904599,,,0
+HS,2016,201605,May-16,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,90320463,,,0
+HS,2016,201605,May-16,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,989115495,,,0
+HS,2017,201707,Jul-17,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1071599585,,,0
+HS,2017,201707,Jul-17,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,189316983,,,0
+HS,2017,201708,Aug-17,0,0,1,Imports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,14802546,,,0
+HS,2017,201708,Aug-17,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,355221435,,,0
+HS,2017,201708,Aug-17,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,921807287,,,0
+HS,2017,201703,Mar-17,0,0,2,Exports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,967755790,,,0
+HS,2016,201604,Apr-16,0,0,1,Imports,156,China,,566,Nigeria,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,135381029,,,0
+HS,2017,201702,Feb-17,0,0,1,Imports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,56189945,,,0
+HS,2017,201702,Feb-17,0,0,1,Imports,156,China,,710,South Africa,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1943176710,,,0
+HS,2017,201705,May-17,0,0,2,Exports,156,China,,818,Egypt,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,900551056,,,0
+HS,2017,201705,May-17,0,0,2,Exports,156,China,,404,Kenya,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,522698565,,,0
+HS,2017,201706,Jun-17,0,0,2,Exports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,212029874,,,0
+HS,2017,201706,Jun-17,0,0,1,Imports,156,China,,24,Angola,,,,,,,,,TOTAL,All Commodities,,,,,,,0,,1559311604,,,0

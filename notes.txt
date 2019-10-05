@@ -1,0 +1,32 @@
+Available Datasets:
+Chapel Hill Crime Data
+UN Comtrade 
+NC Voter Records
+USDA Agriculture Databases
+
+General Advice:
+First thing, what do the members know and what dataset are we using 
+Think about the purpose of the project -> answering a question
+
+Structure:
+    - Teams of up to 4 people 
+    - Submit to one prize category 
+        - 1 page report 
+        - 3-4 minute presentation
+    - Use data.world to submit 
+
+Categories: 
+    - Best Beginner
+        - Who is a beginner? 
+            - Undergrad and Less than 1 year of data science/analytics experience
+    - Best Visualization
+        - Display the data in a visually appealing way
+        - Easily tell a story using graphs, diagrams, and visual models
+    - Best Insight
+        - Reveal something about the provided data that can't be seen from surface level analysis
+    - Best Use of Outside Data
+        - Pair the given data with other datasets or statistics that are readily available online 
+        - Adds meaning and context
+
+Data Link:
+    - https://data.world/cdc2019

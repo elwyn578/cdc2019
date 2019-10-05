@@ -1,0 +1,2576 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20193.19.0821.2225                               -->
+<workbook source-build='2019.3.0 (20193.19.0821.2225)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <SheetIdentifierTracking ignorable='true' predowngraded='true' />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='GDP Growth Data (1960-2018)' inline='true' name='federated.0e3rxbm1sxssz519jeq2e1dwales' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='GDP Growth Data (1960-2018)' name='textscan.1m09jze0gutqgq1c6821m17hm8wh'>
+            <connection class='textscan' directory='C:/Users/Owner/Dropbox/Git Repositories/cdc2019' filename='GDP Growth Data (1960-2018).csv' password='' port='0' server='' />
+          </named-connection>
+        </named-connections>
+        <relation join='full' type='join'>
+          <clause type='join'>
+            <expression op='='>
+              <expression op='[GDP Growth Data (1960-2018).csv+].[F1]' />
+              <expression op='[GDP Per Captial (1960-2018).csv].[F1]' />
+            </expression>
+          </clause>
+          <relation all='true' name='GDP Growth Data (1960-2018).csv+' type='union'>
+            <columns character-set='UTF-8' header='no' locale='en_US' separator=','>
+              <column datatype='string' name='F1' />
+              <column datatype='string' name='F2' />
+              <column datatype='string' name='F3' />
+              <column datatype='string' name='F4' />
+              <column datatype='string' date-parse-format='yyyy' name='F5' />
+              <column datatype='string' name='F6' />
+              <column datatype='string' name='F7' />
+              <column datatype='real' name='F8' />
+              <column datatype='real' name='F9' />
+              <column datatype='real' name='F10' />
+              <column datatype='real' name='F11' />
+              <column datatype='real' name='F12' />
+              <column datatype='real' name='F13' />
+              <column datatype='real' name='F14' />
+              <column datatype='real' name='F15' />
+              <column datatype='real' name='F16' />
+              <column datatype='real' name='F17' />
+              <column datatype='real' name='F18' />
+              <column datatype='real' name='F19' />
+              <column datatype='real' name='F20' />
+              <column datatype='real' name='F21' />
+              <column datatype='real' name='F22' />
+              <column datatype='real' name='F23' />
+              <column datatype='real' name='F24' />
+              <column datatype='real' name='F25' />
+              <column datatype='real' name='F26' />
+              <column datatype='real' name='F27' />
+              <column datatype='real' name='F28' />
+              <column datatype='real' name='F29' />
+              <column datatype='real' name='F30' />
+              <column datatype='real' name='F31' />
+              <column datatype='real' name='F32' />
+              <column datatype='real' name='F33' />
+              <column datatype='real' name='F34' />
+              <column datatype='real' name='F35' />
+              <column datatype='real' name='F36' />
+              <column datatype='real' name='F37' />
+              <column datatype='real' name='F38' />
+              <column datatype='real' name='F39' />
+              <column datatype='real' name='F40' />
+              <column datatype='real' name='F41' />
+              <column datatype='real' name='F42' />
+              <column datatype='real' name='F43' />
+              <column datatype='real' name='F44' />
+              <column datatype='real' name='F45' />
+              <column datatype='real' name='F46' />
+              <column datatype='real' name='F47' />
+              <column datatype='real' name='F48' />
+              <column datatype='real' name='F49' />
+              <column datatype='real' name='F50' />
+              <column datatype='real' name='F51' />
+              <column datatype='real' name='F52' />
+              <column datatype='real' name='F53' />
+              <column datatype='real' name='F54' />
+              <column datatype='real' name='F55' />
+              <column datatype='real' name='F56' />
+              <column datatype='real' name='F57' />
+              <column datatype='real' name='F58' />
+              <column datatype='real' name='F59' />
+              <column datatype='real' name='F60' />
+              <column datatype='real' name='F61' />
+              <column datatype='real' name='F62' />
+              <column datatype='real' name='F63' />
+              <column datatype='string' name='Table Name' />
+            </columns>
+            <relation connection='textscan.1m09jze0gutqgq1c6821m17hm8wh' name='GDP Growth Data (1960-2018).csv' table='[GDP Growth Data (1960-2018)#csv]' type='table'>
+              <columns character-set='UTF-8' header='no' locale='en_US' separator=','>
+                <column datatype='string' name='F1' ordinal='0' />
+                <column datatype='string' name='F2' ordinal='1' />
+                <column datatype='string' name='F3' ordinal='2' />
+                <column datatype='string' name='F4' ordinal='3' />
+                <column datatype='integer' name='F5' ordinal='4' />
+                <column datatype='real' name='F6' ordinal='5' />
+                <column datatype='real' name='F7' ordinal='6' />
+                <column datatype='real' name='F8' ordinal='7' />
+                <column datatype='real' name='F9' ordinal='8' />
+                <column datatype='real' name='F10' ordinal='9' />
+                <column datatype='real' name='F11' ordinal='10' />
+                <column datatype='real' name='F12' ordinal='11' />
+                <column datatype='real' name='F13' ordinal='12' />
+                <column datatype='real' name='F14' ordinal='13' />
+                <column datatype='real' name='F15' ordinal='14' />
+                <column datatype='real' name='F16' ordinal='15' />
+                <column datatype='real' name='F17' ordinal='16' />
+                <column datatype='real' name='F18' ordinal='17' />
+                <column datatype='real' name='F19' ordinal='18' />
+                <column datatype='real' name='F20' ordinal='19' />
+                <column datatype='real' name='F21' ordinal='20' />
+                <column datatype='real' name='F22' ordinal='21' />
+                <column datatype='real' name='F23' ordinal='22' />
+                <column datatype='real' name='F24' ordinal='23' />
+                <column datatype='real' name='F25' ordinal='24' />
+                <column datatype='real' name='F26' ordinal='25' />
+                <column datatype='real' name='F27' ordinal='26' />
+                <column datatype='real' name='F28' ordinal='27' />
+                <column datatype='real' name='F29' ordinal='28' />
+                <column datatype='real' name='F30' ordinal='29' />
+                <column datatype='real' name='F31' ordinal='30' />
+                <column datatype='real' name='F32' ordinal='31' />
+                <column datatype='real' name='F33' ordinal='32' />
+                <column datatype='real' name='F34' ordinal='33' />
+                <column datatype='real' name='F35' ordinal='34' />
+                <column datatype='real' name='F36' ordinal='35' />
+                <column datatype='real' name='F37' ordinal='36' />
+                <column datatype='real' name='F38' ordinal='37' />
+                <column datatype='real' name='F39' ordinal='38' />
+                <column datatype='real' name='F40' ordinal='39' />
+                <column datatype='real' name='F41' ordinal='40' />
+                <column datatype='real' name='F42' ordinal='41' />
+                <column datatype='real' name='F43' ordinal='42' />
+                <column datatype='real' name='F44' ordinal='43' />
+                <column datatype='real' name='F45' ordinal='44' />
+                <column datatype='real' name='F46' ordinal='45' />
+                <column datatype='real' name='F47' ordinal='46' />
+                <column datatype='real' name='F48' ordinal='47' />
+                <column datatype='real' name='F49' ordinal='48' />
+                <column datatype='real' name='F50' ordinal='49' />
+                <column datatype='real' name='F51' ordinal='50' />
+                <column datatype='real' name='F52' ordinal='51' />
+                <column datatype='real' name='F53' ordinal='52' />
+                <column datatype='real' name='F54' ordinal='53' />
+                <column datatype='real' name='F55' ordinal='54' />
+                <column datatype='real' name='F56' ordinal='55' />
+                <column datatype='real' name='F57' ordinal='56' />
+                <column datatype='real' name='F58' ordinal='57' />
+                <column datatype='real' name='F59' ordinal='58' />
+                <column datatype='real' name='F60' ordinal='59' />
+                <column datatype='real' name='F61' ordinal='60' />
+                <column datatype='real' name='F62' ordinal='61' />
+                <column datatype='real' name='F63' ordinal='62' />
+              </columns>
+            </relation>
+          </relation>
+          <relation connection='textscan.1m09jze0gutqgq1c6821m17hm8wh' name='GDP Per Captial (1960-2018).csv' table='[GDP Per Captial (1960-2018)#csv]' type='table'>
+            <columns character-set='UTF-8' header='no' locale='en_US' separator=','>
+              <column datatype='string' name='F1' ordinal='0' />
+              <column datatype='string' name='F2' ordinal='1' />
+              <column datatype='string' name='F3' ordinal='2' />
+              <column datatype='string' name='F4' ordinal='3' />
+              <column datatype='real' name='F5' ordinal='4' />
+              <column datatype='real' name='F6' ordinal='5' />
+              <column datatype='real' name='F7' ordinal='6' />
+              <column datatype='real' name='F8' ordinal='7' />
+              <column datatype='real' name='F9' ordinal='8' />
+              <column datatype='real' name='F10' ordinal='9' />
+              <column datatype='real' name='F11' ordinal='10' />
+              <column datatype='real' name='F12' ordinal='11' />
+              <column datatype='real' name='F13' ordinal='12' />
+              <column datatype='real' name='F14' ordinal='13' />
+              <column datatype='real' name='F15' ordinal='14' />
+              <column datatype='real' name='F16' ordinal='15' />
+              <column datatype='real' name='F17' ordinal='16' />
+              <column datatype='real' name='F18' ordinal='17' />
+              <column datatype='real' name='F19' ordinal='18' />
+              <column datatype='real' name='F20' ordinal='19' />
+              <column datatype='real' name='F21' ordinal='20' />
+              <column datatype='real' name='F22' ordinal='21' />
+              <column datatype='real' name='F23' ordinal='22' />
+              <column datatype='real' name='F24' ordinal='23' />
+              <column datatype='real' name='F25' ordinal='24' />
+              <column datatype='real' name='F26' ordinal='25' />
+              <column datatype='real' name='F27' ordinal='26' />
+              <column datatype='real' name='F28' ordinal='27' />
+              <column datatype='real' name='F29' ordinal='28' />
+              <column datatype='real' name='F30' ordinal='29' />
+              <column datatype='real' name='F31' ordinal='30' />
+              <column datatype='real' name='F32' ordinal='31' />
+              <column datatype='real' name='F33' ordinal='32' />
+              <column datatype='real' name='F34' ordinal='33' />
+              <column datatype='real' name='F35' ordinal='34' />
+              <column datatype='real' name='F36' ordinal='35' />
+              <column datatype='real' name='F37' ordinal='36' />
+              <column datatype='real' name='F38' ordinal='37' />
+              <column datatype='real' name='F39' ordinal='38' />
+              <column datatype='real' name='F40' ordinal='39' />
+              <column datatype='real' name='F41' ordinal='40' />
+              <column datatype='real' name='F42' ordinal='41' />
+              <column datatype='real' name='F43' ordinal='42' />
+              <column datatype='real' name='F44' ordinal='43' />
+              <column datatype='real' name='F45' ordinal='44' />
+              <column datatype='real' name='F46' ordinal='45' />
+              <column datatype='real' name='F47' ordinal='46' />
+              <column datatype='real' name='F48' ordinal='47' />
+              <column datatype='real' name='F49' ordinal='48' />
+              <column datatype='real' name='F50' ordinal='49' />
+              <column datatype='real' name='F51' ordinal='50' />
+              <column datatype='real' name='F52' ordinal='51' />
+              <column datatype='real' name='F53' ordinal='52' />
+              <column datatype='real' name='F54' ordinal='53' />
+              <column datatype='real' name='F55' ordinal='54' />
+              <column datatype='real' name='F56' ordinal='55' />
+              <column datatype='real' name='F57' ordinal='56' />
+              <column datatype='real' name='F58' ordinal='57' />
+              <column datatype='real' name='F59' ordinal='58' />
+              <column datatype='real' name='F60' ordinal='59' />
+              <column datatype='real' name='F61' ordinal='60' />
+              <column datatype='real' name='F62' ordinal='61' />
+              <column datatype='real' name='F63' ordinal='62' />
+            </columns>
+          </relation>
+        </relation>
+        <cols>
+          <map key='[F1 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F1]' />
+          <map key='[F10 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F10]' />
+          <map key='[F10]' value='[GDP Growth Data (1960-2018).csv+].[F10]' />
+          <map key='[F11 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F11]' />
+          <map key='[F11]' value='[GDP Growth Data (1960-2018).csv+].[F11]' />
+          <map key='[F12 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F12]' />
+          <map key='[F12]' value='[GDP Growth Data (1960-2018).csv+].[F12]' />
+          <map key='[F13 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F13]' />
+          <map key='[F13]' value='[GDP Growth Data (1960-2018).csv+].[F13]' />
+          <map key='[F14 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F14]' />
+          <map key='[F14]' value='[GDP Growth Data (1960-2018).csv+].[F14]' />
+          <map key='[F15 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F15]' />
+          <map key='[F15]' value='[GDP Growth Data (1960-2018).csv+].[F15]' />
+          <map key='[F16 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F16]' />
+          <map key='[F16]' value='[GDP Growth Data (1960-2018).csv+].[F16]' />
+          <map key='[F17 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F17]' />
+          <map key='[F17]' value='[GDP Growth Data (1960-2018).csv+].[F17]' />
+          <map key='[F18 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F18]' />
+          <map key='[F18]' value='[GDP Growth Data (1960-2018).csv+].[F18]' />
+          <map key='[F19 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F19]' />
+          <map key='[F19]' value='[GDP Growth Data (1960-2018).csv+].[F19]' />
+          <map key='[F1]' value='[GDP Growth Data (1960-2018).csv+].[F1]' />
+          <map key='[F2 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F2]' />
+          <map key='[F20 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F20]' />
+          <map key='[F20]' value='[GDP Growth Data (1960-2018).csv+].[F20]' />
+          <map key='[F21 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F21]' />
+          <map key='[F21]' value='[GDP Growth Data (1960-2018).csv+].[F21]' />
+          <map key='[F22 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F22]' />
+          <map key='[F22]' value='[GDP Growth Data (1960-2018).csv+].[F22]' />
+          <map key='[F23 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F23]' />
+          <map key='[F23]' value='[GDP Growth Data (1960-2018).csv+].[F23]' />
+          <map key='[F24 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F24]' />
+          <map key='[F24]' value='[GDP Growth Data (1960-2018).csv+].[F24]' />
+          <map key='[F25 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F25]' />
+          <map key='[F25]' value='[GDP Growth Data (1960-2018).csv+].[F25]' />
+          <map key='[F26 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F26]' />
+          <map key='[F26]' value='[GDP Growth Data (1960-2018).csv+].[F26]' />
+          <map key='[F27 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F27]' />
+          <map key='[F27]' value='[GDP Growth Data (1960-2018).csv+].[F27]' />
+          <map key='[F28 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F28]' />
+          <map key='[F28]' value='[GDP Growth Data (1960-2018).csv+].[F28]' />
+          <map key='[F29 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F29]' />
+          <map key='[F29]' value='[GDP Growth Data (1960-2018).csv+].[F29]' />
+          <map key='[F2]' value='[GDP Growth Data (1960-2018).csv+].[F2]' />
+          <map key='[F3 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F3]' />
+          <map key='[F30 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F30]' />
+          <map key='[F30]' value='[GDP Growth Data (1960-2018).csv+].[F30]' />
+          <map key='[F31 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F31]' />
+          <map key='[F31]' value='[GDP Growth Data (1960-2018).csv+].[F31]' />
+          <map key='[F32 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F32]' />
+          <map key='[F32]' value='[GDP Growth Data (1960-2018).csv+].[F32]' />
+          <map key='[F33 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F33]' />
+          <map key='[F33]' value='[GDP Growth Data (1960-2018).csv+].[F33]' />
+          <map key='[F34 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F34]' />
+          <map key='[F34]' value='[GDP Growth Data (1960-2018).csv+].[F34]' />
+          <map key='[F35 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F35]' />
+          <map key='[F35]' value='[GDP Growth Data (1960-2018).csv+].[F35]' />
+          <map key='[F36 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F36]' />
+          <map key='[F36]' value='[GDP Growth Data (1960-2018).csv+].[F36]' />
+          <map key='[F37 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F37]' />
+          <map key='[F37]' value='[GDP Growth Data (1960-2018).csv+].[F37]' />
+          <map key='[F38 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F38]' />
+          <map key='[F38]' value='[GDP Growth Data (1960-2018).csv+].[F38]' />
+          <map key='[F39 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F39]' />
+          <map key='[F39]' value='[GDP Growth Data (1960-2018).csv+].[F39]' />
+          <map key='[F3]' value='[GDP Growth Data (1960-2018).csv+].[F3]' />
+          <map key='[F4 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F4]' />
+          <map key='[F40 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F40]' />
+          <map key='[F40]' value='[GDP Growth Data (1960-2018).csv+].[F40]' />
+          <map key='[F41 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F41]' />
+          <map key='[F41]' value='[GDP Growth Data (1960-2018).csv+].[F41]' />
+          <map key='[F42 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F42]' />
+          <map key='[F42]' value='[GDP Growth Data (1960-2018).csv+].[F42]' />
+          <map key='[F43 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F43]' />
+          <map key='[F43]' value='[GDP Growth Data (1960-2018).csv+].[F43]' />
+          <map key='[F44 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F44]' />
+          <map key='[F44]' value='[GDP Growth Data (1960-2018).csv+].[F44]' />
+          <map key='[F45 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F45]' />
+          <map key='[F45]' value='[GDP Growth Data (1960-2018).csv+].[F45]' />
+          <map key='[F46 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F46]' />
+          <map key='[F46]' value='[GDP Growth Data (1960-2018).csv+].[F46]' />
+          <map key='[F47 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F47]' />
+          <map key='[F47]' value='[GDP Growth Data (1960-2018).csv+].[F47]' />
+          <map key='[F48 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F48]' />
+          <map key='[F48]' value='[GDP Growth Data (1960-2018).csv+].[F48]' />
+          <map key='[F49 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F49]' />
+          <map key='[F49]' value='[GDP Growth Data (1960-2018).csv+].[F49]' />
+          <map key='[F4]' value='[GDP Growth Data (1960-2018).csv+].[F4]' />
+          <map key='[F5 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F5]' />
+          <map key='[F50 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F50]' />
+          <map key='[F50]' value='[GDP Growth Data (1960-2018).csv+].[F50]' />
+          <map key='[F51 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F51]' />
+          <map key='[F51]' value='[GDP Growth Data (1960-2018).csv+].[F51]' />
+          <map key='[F52 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F52]' />
+          <map key='[F52]' value='[GDP Growth Data (1960-2018).csv+].[F52]' />
+          <map key='[F53 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F53]' />
+          <map key='[F53]' value='[GDP Growth Data (1960-2018).csv+].[F53]' />
+          <map key='[F54 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F54]' />
+          <map key='[F54]' value='[GDP Growth Data (1960-2018).csv+].[F54]' />
+          <map key='[F55 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F55]' />
+          <map key='[F55]' value='[GDP Growth Data (1960-2018).csv+].[F55]' />
+          <map key='[F56 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F56]' />
+          <map key='[F56]' value='[GDP Growth Data (1960-2018).csv+].[F56]' />
+          <map key='[F57 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F57]' />
+          <map key='[F57]' value='[GDP Growth Data (1960-2018).csv+].[F57]' />
+          <map key='[F58 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F58]' />
+          <map key='[F58]' value='[GDP Growth Data (1960-2018).csv+].[F58]' />
+          <map key='[F59 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F59]' />
+          <map key='[F59]' value='[GDP Growth Data (1960-2018).csv+].[F59]' />
+          <map key='[F5]' value='[GDP Growth Data (1960-2018).csv+].[F5]' />
+          <map key='[F6 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F6]' />
+          <map key='[F60 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F60]' />
+          <map key='[F60]' value='[GDP Growth Data (1960-2018).csv+].[F60]' />
+          <map key='[F61 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F61]' />
+          <map key='[F61]' value='[GDP Growth Data (1960-2018).csv+].[F61]' />
+          <map key='[F62 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F62]' />
+          <map key='[F62]' value='[GDP Growth Data (1960-2018).csv+].[F62]' />
+          <map key='[F63 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F63]' />
+          <map key='[F63]' value='[GDP Growth Data (1960-2018).csv+].[F63]' />
+          <map key='[F6]' value='[GDP Growth Data (1960-2018).csv+].[F6]' />
+          <map key='[F7 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F7]' />
+          <map key='[F7]' value='[GDP Growth Data (1960-2018).csv+].[F7]' />
+          <map key='[F8 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F8]' />
+          <map key='[F8]' value='[GDP Growth Data (1960-2018).csv+].[F8]' />
+          <map key='[F9 (GDP Per Captial (1960-2018).csv)]' value='[GDP Per Captial (1960-2018).csv].[F9]' />
+          <map key='[F9]' value='[GDP Growth Data (1960-2018).csv+].[F9]' />
+          <map key='[Table Name]' value='[GDP Growth Data (1960-2018).csv+].[Table Name]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;false&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F2</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[F2]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F2</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F3</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[F3]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F3</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F4</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[F4]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F4</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F5</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[F5]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F5</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F6</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[F6]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F6</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F7</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[F7]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F7</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F8</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F8]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F8</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F9</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F9]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F9</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F10</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F10]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F10</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F11</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F11]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F11</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F12</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F12]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F12</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F13</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F13]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F13</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F14</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F14]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F14</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F15</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F15]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F15</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F16</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F16]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F16</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F17</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F17]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F17</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F18</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F18]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F18</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F19</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F19]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F19</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F20</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F20]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F20</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F21</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F21]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F21</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F22</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F22]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F22</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F23</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F23]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F23</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F24</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F24]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F24</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F25</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F25]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F25</remote-alias>
+            <ordinal>24</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F26</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F26]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F26</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F27</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F27]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F27</remote-alias>
+            <ordinal>26</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F28</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F28]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F28</remote-alias>
+            <ordinal>27</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F29</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F29]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F29</remote-alias>
+            <ordinal>28</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F30</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F30]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F30</remote-alias>
+            <ordinal>29</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F31</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F31]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F31</remote-alias>
+            <ordinal>30</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F32</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F32]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F32</remote-alias>
+            <ordinal>31</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F33</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F33]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F33</remote-alias>
+            <ordinal>32</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F34</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F34]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F34</remote-alias>
+            <ordinal>33</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F35</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F35]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F35</remote-alias>
+            <ordinal>34</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F36</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F36]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F36</remote-alias>
+            <ordinal>35</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F37</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F37]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F37</remote-alias>
+            <ordinal>36</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F38</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F38]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F38</remote-alias>
+            <ordinal>37</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F39</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F39]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F39</remote-alias>
+            <ordinal>38</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F40</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F40]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F40</remote-alias>
+            <ordinal>39</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F41</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F41]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F41</remote-alias>
+            <ordinal>40</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F42</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F42]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F42</remote-alias>
+            <ordinal>41</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F43</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F43]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F43</remote-alias>
+            <ordinal>42</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F44</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F44]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F44</remote-alias>
+            <ordinal>43</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F45</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F45]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F45</remote-alias>
+            <ordinal>44</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F46</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F46]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F46</remote-alias>
+            <ordinal>45</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F47</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F47]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F47</remote-alias>
+            <ordinal>46</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F48</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F48]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F48</remote-alias>
+            <ordinal>47</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F49</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F49]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F49</remote-alias>
+            <ordinal>48</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F50</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F50]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F50</remote-alias>
+            <ordinal>49</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F51</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F51]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F51</remote-alias>
+            <ordinal>50</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F52</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F52]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F52</remote-alias>
+            <ordinal>51</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F53</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F53]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F53</remote-alias>
+            <ordinal>52</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F54</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F54]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F54</remote-alias>
+            <ordinal>53</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F55</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F55]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F55</remote-alias>
+            <ordinal>54</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F56</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F56]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F56</remote-alias>
+            <ordinal>55</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F57</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F57]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F57</remote-alias>
+            <ordinal>56</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F58</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F58]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F58</remote-alias>
+            <ordinal>57</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F59</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F59]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F59</remote-alias>
+            <ordinal>58</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F60</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F60]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F60</remote-alias>
+            <ordinal>59</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F61</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F61]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F61</remote-alias>
+            <ordinal>60</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F62</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F62]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F62</remote-alias>
+            <ordinal>61</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F63</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F63]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>F63</remote-alias>
+            <ordinal>62</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Table Name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Table Name]</local-name>
+            <parent-name>[GDP Growth Data (1960-2018).csv+]</parent-name>
+            <remote-alias>Table Name</remote-alias>
+            <ordinal>63</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;false&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[F1 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>64</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F2</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[F2 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F2</remote-alias>
+            <ordinal>65</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F3</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[F3 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F3</remote-alias>
+            <ordinal>66</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F4</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[F4 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F4</remote-alias>
+            <ordinal>67</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F5</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F5 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F5</remote-alias>
+            <ordinal>68</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F6</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F6 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F6</remote-alias>
+            <ordinal>69</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F7</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F7 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F7</remote-alias>
+            <ordinal>70</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F8</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F8 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F8</remote-alias>
+            <ordinal>71</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F9</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F9 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F9</remote-alias>
+            <ordinal>72</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F10</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F10 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F10</remote-alias>
+            <ordinal>73</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F11</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F11 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F11</remote-alias>
+            <ordinal>74</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F12</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F12 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F12</remote-alias>
+            <ordinal>75</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F13</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F13 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F13</remote-alias>
+            <ordinal>76</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F14</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F14 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F14</remote-alias>
+            <ordinal>77</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F15</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F15 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F15</remote-alias>
+            <ordinal>78</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F16</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F16 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F16</remote-alias>
+            <ordinal>79</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F17</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F17 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F17</remote-alias>
+            <ordinal>80</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F18</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F18 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F18</remote-alias>
+            <ordinal>81</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F19</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F19 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F19</remote-alias>
+            <ordinal>82</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F20</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F20 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F20</remote-alias>
+            <ordinal>83</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F21</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F21 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F21</remote-alias>
+            <ordinal>84</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F22</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F22 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F22</remote-alias>
+            <ordinal>85</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F23</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F23 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F23</remote-alias>
+            <ordinal>86</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F24</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F24 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F24</remote-alias>
+            <ordinal>87</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F25</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F25 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F25</remote-alias>
+            <ordinal>88</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F26</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F26 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F26</remote-alias>
+            <ordinal>89</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F27</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F27 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F27</remote-alias>
+            <ordinal>90</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F28</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F28 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F28</remote-alias>
+            <ordinal>91</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F29</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F29 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F29</remote-alias>
+            <ordinal>92</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F30</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F30 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F30</remote-alias>
+            <ordinal>93</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F31</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F31 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F31</remote-alias>
+            <ordinal>94</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F32</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F32 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F32</remote-alias>
+            <ordinal>95</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F33</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F33 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F33</remote-alias>
+            <ordinal>96</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F34</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F34 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F34</remote-alias>
+            <ordinal>97</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F35</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F35 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F35</remote-alias>
+            <ordinal>98</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F36</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F36 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F36</remote-alias>
+            <ordinal>99</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F37</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F37 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F37</remote-alias>
+            <ordinal>100</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F38</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F38 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F38</remote-alias>
+            <ordinal>101</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F39</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F39 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F39</remote-alias>
+            <ordinal>102</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F40</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F40 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F40</remote-alias>
+            <ordinal>103</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F41</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F41 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F41</remote-alias>
+            <ordinal>104</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F42</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F42 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F42</remote-alias>
+            <ordinal>105</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F43</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F43 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F43</remote-alias>
+            <ordinal>106</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F44</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F44 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F44</remote-alias>
+            <ordinal>107</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F45</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F45 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F45</remote-alias>
+            <ordinal>108</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F46</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F46 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F46</remote-alias>
+            <ordinal>109</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F47</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F47 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F47</remote-alias>
+            <ordinal>110</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F48</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F48 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F48</remote-alias>
+            <ordinal>111</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F49</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F49 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F49</remote-alias>
+            <ordinal>112</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F50</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F50 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F50</remote-alias>
+            <ordinal>113</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F51</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F51 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F51</remote-alias>
+            <ordinal>114</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F52</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F52 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F52</remote-alias>
+            <ordinal>115</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F53</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F53 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F53</remote-alias>
+            <ordinal>116</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F54</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F54 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F54</remote-alias>
+            <ordinal>117</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F55</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F55 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F55</remote-alias>
+            <ordinal>118</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F56</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F56 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F56</remote-alias>
+            <ordinal>119</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F57</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F57 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F57</remote-alias>
+            <ordinal>120</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F58</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F58 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F58</remote-alias>
+            <ordinal>121</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F59</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F59 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F59</remote-alias>
+            <ordinal>122</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F60</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F60 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F60</remote-alias>
+            <ordinal>123</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F61</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F61 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F61</remote-alias>
+            <ordinal>124</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F62</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F62 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F62</remote-alias>
+            <ordinal>125</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F63</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[F63 (GDP Per Captial (1960-2018).csv)]</local-name>
+            <parent-name>[GDP Per Captial (1960-2018).csv]</parent-name>
+            <remote-alias>F63</remote-alias>
+            <ordinal>126</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[:Measure Names]' role='dimension' type='nominal'>
+        <aliases>
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F10:qk]&quot;' value='1964' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F11:qk]&quot;' value='1965' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F12:qk]&quot;' value='1966' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F13:qk]&quot;' value='1967' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F14:qk]&quot;' value='1968' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F15:qk]&quot;' value='1969' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F16:qk]&quot;' value='1970' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F17:qk]&quot;' value='1971' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F18:qk]&quot;' value='1972' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F19:qk]&quot;' value='1973' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F20:qk]&quot;' value='1974' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F21:qk]&quot;' value='1975' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F22:qk]&quot;' value='1976' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F23:qk]&quot;' value='1977' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F24:qk]&quot;' value='1978' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F25:qk]&quot;' value='1979' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F26:qk]&quot;' value='1980' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F27:qk]&quot;' value='1981' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F6:qk]&quot;' value='1960' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F7:qk]&quot;' value='1961' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F8:qk]&quot;' value='1962' />
+          <alias key='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F9:qk]&quot;' value='1963' />
+        </aliases>
+      </column>
+      <column datatype='real' name='[F10]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F11]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F12]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F13]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F14]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F15]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F16]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F17]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F18]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F19]' role='measure' type='quantitative' />
+      <column datatype='string' name='[F1]' role='dimension' type='nominal' />
+      <column datatype='real' name='[F20]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F21]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F22]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F23]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F24]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F25]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F26]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F27]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F28]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F29]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F30]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F31]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F32]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F33]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F34]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F35]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F36]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F37]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F38]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F39]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F40]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F41]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F42]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F43]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F44]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F45]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F46]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F47]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F48]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F49]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F50]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F51]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F52]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F53]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F54]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F55]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F56]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F57]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F58]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F59]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F60]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F61]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F62]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F63]' role='measure' type='quantitative' />
+      <column datatype='string' name='[F6]' role='dimension' type='nominal' />
+      <column datatype='string' default-role='measure' default-type='quantitative' name='[F7]' role='dimension' type='nominal' />
+      <column datatype='real' name='[F8]' role='measure' type='quantitative' />
+      <column datatype='real' name='[F9]' role='measure' type='quantitative' />
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column-instance column='[F1]' derivation='None' name='[none:F1:nk]' pivot='key' type='nominal' />
+      <column-instance column='[F10]' derivation='Sum' name='[sum:F10:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F11]' derivation='Sum' name='[sum:F11:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F12]' derivation='Sum' name='[sum:F12:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F13]' derivation='Sum' name='[sum:F13:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F14]' derivation='Sum' name='[sum:F14:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F15]' derivation='Sum' name='[sum:F15:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F16]' derivation='Sum' name='[sum:F16:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F17]' derivation='Sum' name='[sum:F17:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F18]' derivation='Sum' name='[sum:F18:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F19]' derivation='Sum' name='[sum:F19:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F20]' derivation='Sum' name='[sum:F20:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F21]' derivation='Sum' name='[sum:F21:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F22]' derivation='Sum' name='[sum:F22:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F23]' derivation='Sum' name='[sum:F23:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F24]' derivation='Sum' name='[sum:F24:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F25]' derivation='Sum' name='[sum:F25:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F26]' derivation='Sum' name='[sum:F26:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F27]' derivation='Sum' name='[sum:F27:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F28]' derivation='Sum' name='[sum:F28:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F29]' derivation='Sum' name='[sum:F29:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F30]' derivation='Sum' name='[sum:F30:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F31]' derivation='Sum' name='[sum:F31:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F32]' derivation='Sum' name='[sum:F32:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F33]' derivation='Sum' name='[sum:F33:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F34]' derivation='Sum' name='[sum:F34:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F35]' derivation='Sum' name='[sum:F35:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F36]' derivation='Sum' name='[sum:F36:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F37]' derivation='Sum' name='[sum:F37:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F38]' derivation='Sum' name='[sum:F38:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F39]' derivation='Sum' name='[sum:F39:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F40]' derivation='Sum' name='[sum:F40:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F41]' derivation='Sum' name='[sum:F41:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F42]' derivation='Sum' name='[sum:F42:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F43]' derivation='Sum' name='[sum:F43:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F44]' derivation='Sum' name='[sum:F44:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F45]' derivation='Sum' name='[sum:F45:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F46]' derivation='Sum' name='[sum:F46:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F47]' derivation='Sum' name='[sum:F47:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F48]' derivation='Sum' name='[sum:F48:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F49]' derivation='Sum' name='[sum:F49:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F50]' derivation='Sum' name='[sum:F50:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F51]' derivation='Sum' name='[sum:F51:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F52]' derivation='Sum' name='[sum:F52:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F53]' derivation='Sum' name='[sum:F53:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F54]' derivation='Sum' name='[sum:F54:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F55]' derivation='Sum' name='[sum:F55:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F56]' derivation='Sum' name='[sum:F56:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F57]' derivation='Sum' name='[sum:F57:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F58]' derivation='Sum' name='[sum:F58:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F59]' derivation='Sum' name='[sum:F59:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F60]' derivation='Sum' name='[sum:F60:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F61]' derivation='Sum' name='[sum:F61:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F62]' derivation='Sum' name='[sum:F62:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F63]' derivation='Sum' name='[sum:F63:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F6]' derivation='Sum' name='[sum:F6:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F7]' derivation='Sum' name='[sum:F7:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F8]' derivation='Sum' name='[sum:F8:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[F9]' derivation='Sum' name='[sum:F9:qk]' pivot='key' type='quantitative' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.613779' measure-ordering='alphabetic' measure-percentage='0.386221' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[:Measure Names]' palette='blue_10_0' type='palette'>
+            <map to='#2a5783'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F63:qk]&quot;</bucket>
+            </map>
+            <map to='#2c5985'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F62:qk]&quot;</bucket>
+            </map>
+            <map to='#2e5b87'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F61:qk]&quot;</bucket>
+            </map>
+            <map to='#305d8a'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F60:qk]&quot;</bucket>
+            </map>
+            <map to='#33608c'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F59:qk]&quot;</bucket>
+            </map>
+            <map to='#35628f'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F58:qk]&quot;</bucket>
+            </map>
+            <map to='#376491'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F57:qk]&quot;</bucket>
+            </map>
+            <map to='#396693'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F56:qk]&quot;</bucket>
+            </map>
+            <map to='#3b6896'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F55:qk]&quot;</bucket>
+            </map>
+            <map to='#3d6a98'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F54:qk]&quot;</bucket>
+            </map>
+            <map to='#3f6d9a'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F53:qk]&quot;</bucket>
+            </map>
+            <map to='#416f9d'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F52:qk]&quot;</bucket>
+            </map>
+            <map to='#43719f'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F51:qk]&quot;</bucket>
+            </map>
+            <map to='#4473a1'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F50:qk]&quot;</bucket>
+            </map>
+            <map to='#4675a3'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F49:qk]&quot;</bucket>
+            </map>
+            <map to='#4878a6'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F48:qk]&quot;</bucket>
+            </map>
+            <map to='#4a7aa8'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F47:qk]&quot;</bucket>
+            </map>
+            <map to='#4b7caa'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F46:qk]&quot;</bucket>
+            </map>
+            <map to='#4e7fac'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F45:qk]&quot;</bucket>
+            </map>
+            <map to='#5081ae'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F44:qk]&quot;</bucket>
+            </map>
+            <map to='#5283b0'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F43:qk]&quot;</bucket>
+            </map>
+            <map to='#5485b2'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F42:qk]&quot;</bucket>
+            </map>
+            <map to='#5788b4'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F41:qk]&quot;</bucket>
+            </map>
+            <map to='#598ab6'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F40:qk]&quot;</bucket>
+            </map>
+            <map to='#5b8cb8'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F39:qk]&quot;</bucket>
+            </map>
+            <map to='#5e8fba'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F38:qk]&quot;</bucket>
+            </map>
+            <map to='#6091bc'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F37:qk]&quot;</bucket>
+            </map>
+            <map to='#6394be'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F36:qk]&quot;</bucket>
+            </map>
+            <map to='#6596c0'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F35:qk]&quot;</bucket>
+            </map>
+            <map to='#6899c1'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F34:qk]&quot;</bucket>
+            </map>
+            <map to='#6a9bc3'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F33:qk]&quot;</bucket>
+            </map>
+            <map to='#6d9ec5'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F32:qk]&quot;</bucket>
+            </map>
+            <map to='#6fa0c7'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F31:qk]&quot;</bucket>
+            </map>
+            <map to='#72a3c9'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F30:qk]&quot;</bucket>
+            </map>
+            <map to='#74a5cb'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F29:qk]&quot;</bucket>
+            </map>
+            <map to='#76a7cd'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F28:qk]&quot;</bucket>
+            </map>
+            <map to='#79aacf'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F27:qk]&quot;</bucket>
+            </map>
+            <map to='#7bacd1'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F26:qk]&quot;</bucket>
+            </map>
+            <map to='#7eaed3'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F25:qk]&quot;</bucket>
+            </map>
+            <map to='#80b0d5'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F24:qk]&quot;</bucket>
+            </map>
+            <map to='#83b3d7'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F23:qk]&quot;</bucket>
+            </map>
+            <map to='#86b5d8'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F22:qk]&quot;</bucket>
+            </map>
+            <map to='#89b8da'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F21:qk]&quot;</bucket>
+            </map>
+            <map to='#8cbbdc'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F20:qk]&quot;</bucket>
+            </map>
+            <map to='#8fbdde'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F19:qk]&quot;</bucket>
+            </map>
+            <map to='#92c0df'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F18:qk]&quot;</bucket>
+            </map>
+            <map to='#95c2e1'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F17:qk]&quot;</bucket>
+            </map>
+            <map to='#98c5e3'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F16:qk]&quot;</bucket>
+            </map>
+            <map to='#9bc7e4'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F15:qk]&quot;</bucket>
+            </map>
+            <map to='#9ecae6'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F14:qk]&quot;</bucket>
+            </map>
+            <map to='#a1cce7'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F13:qk]&quot;</bucket>
+            </map>
+            <map to='#a5cfe9'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F12:qk]&quot;</bucket>
+            </map>
+            <map to='#a8d1ea'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F11:qk]&quot;</bucket>
+            </map>
+            <map to='#abd3ec'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F10:qk]&quot;</bucket>
+            </map>
+            <map to='#afd6ed'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F9:qk]&quot;</bucket>
+            </map>
+            <map to='#b2d8ee'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F8:qk]&quot;</bucket>
+            </map>
+            <map to='#b5daef'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F7:qk]&quot;</bucket>
+            </map>
+            <map to='#b9ddf1'>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F6:qk]&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:F1:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;Angola&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Japan&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;Germany&quot;</bucket>
+            </map>
+            <map to='#9c755f'>
+              <bucket>&quot;United States&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Nigeria&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;India&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Egypt, Arab Rep.&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;Kenya&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Brazil&quot;</bucket>
+            </map>
+            <map to='#ff9da7'>
+              <bucket>&quot;South Africa&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+    </datasource>
+  </datasources>
+  <actions>
+    <action caption='Highlight 1 (generated)' name='[Action1]'>
+      <activation auto-clear='true' type='on-select' />
+      <source type='sheet' worksheet='Sheet 1' />
+      <command command='tsc:brush'>
+        <param name='field-captions' value='Measure Names' />
+        <param name='target' value='Sheet 1' />
+      </command>
+    </action>
+  </actions>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='GDP Growth Data (1960-2018)' name='federated.0e3rxbm1sxssz519jeq2e1dwales' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e3rxbm1sxssz519jeq2e1dwales'>
+            <column datatype='real' name='[F10]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F11]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F12]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F13]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F14]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F15]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F16]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F17]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F18]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F19]' role='measure' type='quantitative' />
+            <column datatype='string' name='[F1]' role='dimension' type='nominal' />
+            <column datatype='real' name='[F20]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F21]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F22]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F23]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F24]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F25]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F26]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F27]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F28]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F29]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F30]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F31]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F32]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F33]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F34]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F35]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F36]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F37]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F38]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F39]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F40]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F41]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F42]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F43]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F44]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F45]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F46]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F47]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F48]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F49]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F50]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F51]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F52]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F53]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F54]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F55]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F56]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F57]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F58]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F59]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F60]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F61]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F62]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F63]' role='measure' type='quantitative' />
+            <column datatype='string' name='[F6]' role='dimension' type='nominal' />
+            <column datatype='string' default-role='measure' default-type='quantitative' name='[F7]' role='dimension' type='nominal' />
+            <column datatype='real' name='[F8]' role='measure' type='quantitative' />
+            <column datatype='real' name='[F9]' role='measure' type='quantitative' />
+            <column-instance column='[F1]' derivation='None' name='[none:F1:nk]' pivot='key' type='nominal' />
+            <column-instance column='[F10]' derivation='Sum' name='[sum:F10:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F11]' derivation='Sum' name='[sum:F11:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F12]' derivation='Sum' name='[sum:F12:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F13]' derivation='Sum' name='[sum:F13:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F14]' derivation='Sum' name='[sum:F14:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F15]' derivation='Sum' name='[sum:F15:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F16]' derivation='Sum' name='[sum:F16:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F17]' derivation='Sum' name='[sum:F17:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F18]' derivation='Sum' name='[sum:F18:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F19]' derivation='Sum' name='[sum:F19:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F20]' derivation='Sum' name='[sum:F20:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F21]' derivation='Sum' name='[sum:F21:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F22]' derivation='Sum' name='[sum:F22:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F23]' derivation='Sum' name='[sum:F23:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F24]' derivation='Sum' name='[sum:F24:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F25]' derivation='Sum' name='[sum:F25:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F26]' derivation='Sum' name='[sum:F26:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F27]' derivation='Sum' name='[sum:F27:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F28]' derivation='Sum' name='[sum:F28:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F29]' derivation='Sum' name='[sum:F29:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F30]' derivation='Sum' name='[sum:F30:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F31]' derivation='Sum' name='[sum:F31:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F32]' derivation='Sum' name='[sum:F32:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F33]' derivation='Sum' name='[sum:F33:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F34]' derivation='Sum' name='[sum:F34:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F35]' derivation='Sum' name='[sum:F35:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F36]' derivation='Sum' name='[sum:F36:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F37]' derivation='Sum' name='[sum:F37:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F38]' derivation='Sum' name='[sum:F38:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F39]' derivation='Sum' name='[sum:F39:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F40]' derivation='Sum' name='[sum:F40:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F41]' derivation='Sum' name='[sum:F41:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F42]' derivation='Sum' name='[sum:F42:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F43]' derivation='Sum' name='[sum:F43:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F44]' derivation='Sum' name='[sum:F44:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F45]' derivation='Sum' name='[sum:F45:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F46]' derivation='Sum' name='[sum:F46:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F47]' derivation='Sum' name='[sum:F47:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F48]' derivation='Sum' name='[sum:F48:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F49]' derivation='Sum' name='[sum:F49:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F50]' derivation='Sum' name='[sum:F50:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F51]' derivation='Sum' name='[sum:F51:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F52]' derivation='Sum' name='[sum:F52:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F53]' derivation='Sum' name='[sum:F53:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F54]' derivation='Sum' name='[sum:F54:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F55]' derivation='Sum' name='[sum:F55:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F56]' derivation='Sum' name='[sum:F56:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F57]' derivation='Sum' name='[sum:F57:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F58]' derivation='Sum' name='[sum:F58:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F59]' derivation='Sum' name='[sum:F59:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F60]' derivation='Sum' name='[sum:F60:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F61]' derivation='Sum' name='[sum:F61:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F62]' derivation='Sum' name='[sum:F62:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F63]' derivation='Sum' name='[sum:F63:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F6]' derivation='Sum' name='[sum:F6:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F7]' derivation='Sum' name='[sum:F7:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F8]' derivation='Sum' name='[sum:F8:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[F9]' derivation='Sum' name='[sum:F9:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0e3rxbm1sxssz519jeq2e1dwales].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F6:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F7:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F8:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F9:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F10:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F11:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F12:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F13:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F14:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F15:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F16:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F17:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F18:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F19:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F20:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F21:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F22:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F23:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F24:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F25:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F26:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F27:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F28:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F29:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F30:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F31:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F32:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F33:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F34:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F35:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F36:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F37:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F38:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F39:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F40:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F41:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F42:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F43:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F44:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F45:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F46:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F47:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F48:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F49:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F50:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F51:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F52:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F53:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F54:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F55:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F56:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F57:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F58:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F59:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F60:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F61:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F62:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F63:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.0e3rxbm1sxssz519jeq2e1dwales].[:Measure Names]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F6:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F7:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F8:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F9:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F10:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F11:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F12:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F13:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F14:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F15:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F16:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F17:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F18:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F19:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F20:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F21:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F22:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F23:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F24:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F25:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F26:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F27:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F28:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F29:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F30:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F31:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F32:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F33:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F34:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F35:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F36:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F37:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F38:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F39:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F40:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F41:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F42:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F43:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F44:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F45:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F46:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F47:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F48:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F49:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F50:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F51:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F52:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F53:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F54:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F55:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F56:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F57:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F58:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F59:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F60:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F61:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F62:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0e3rxbm1sxssz519jeq2e1dwales].[sum:F63:qk]&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.0e3rxbm1sxssz519jeq2e1dwales].[none:F1:nk]'>
+            <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:F1:nk]' />
+              <groupfilter function='union'>
+                <groupfilter function='member' level='[none:F1:nk]' member='%null%' />
+                <groupfilter from='&quot;Afghanistan&quot;' function='range' level='[none:F1:nk]' to='&quot;Andorra&quot;' />
+                <groupfilter from='&quot;Antigua and Barbuda&quot;' function='range' level='[none:F1:nk]' to='&quot;Zimbabwe&quot;' />
+              </groupfilter>
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0e3rxbm1sxssz519jeq2e1dwales].[none:F1:nk]</column>
+            <column>[federated.0e3rxbm1sxssz519jeq2e1dwales].[:Measure Names]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='label'>
+            <format attr='display' field='[federated.0e3rxbm1sxssz519jeq2e1dwales].[:Measure Names]' value='true' />
+          </style-rule>
+          <style-rule element='legend-title'>
+            <format attr='text-align' value='left' />
+          </style-rule>
+          <style-rule element='legend-title-text'>
+            <format attr='color' field='[federated.0e3rxbm1sxssz519jeq2e1dwales].[:Measure Names]' value='Measure Names'>
+              <formatted-text>
+                <run>Measure Names</run>
+              </formatted-text>
+            </format>
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <color column='[federated.0e3rxbm1sxssz519jeq2e1dwales].[:Measure Names]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.0e3rxbm1sxssz519jeq2e1dwales].[Multiple Values]</rows>
+        <cols>([federated.0e3rxbm1sxssz519jeq2e1dwales].[none:F1:nk] / [federated.0e3rxbm1sxssz519jeq2e1dwales].[:Measure Names])</cols>
+      </table>
+      <simple-id uuid='{4C4E1576-3686-4C22-A54F-D4B154BBE01D}' />
+    </worksheet>
+    <worksheet name='Sheet 2'>
+      <table>
+        <view>
+          <datasources />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{B9EB2666-0BCD-4AC2-9609-49B8675A3CC1}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='0.833333' source-height='30'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0e3rxbm1sxssz519jeq2e1dwales].[:Measure Names]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{C1331F5E-F992-4DC6-ACD3-F0CD07963F0E}' />
+    </window>
+    <window class='worksheet' name='Sheet 2'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{2F0B9547-0337-435A-AF37-D99281865807}' />
+    </window>
+  </windows>
+</workbook>

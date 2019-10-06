@@ -36,7 +36,7 @@
             <connection class='textscan' directory='C:/Users/Owner/Dropbox/Git Repositories/cdc2019' filename='Africa Sum by Year.csv' password='' server='' />
           </named-connection>
         </named-connections>
-        <relation join='inner' type='join'>
+        <relation join='full' type='join'>
           <clause type='join'>
             <expression op='='>
               <expression op='[ChinatradewithOthersyearly.csv+].[Year]' />
@@ -1201,11 +1201,13 @@
             <datasource caption='Africatradeothersmonthly' name='federated.012fpsw1cdhdyv14r44ng0iw8jho' />
           </datasources>
           <datasource-dependencies datasource='federated.012fpsw1cdhdyv14r44ng0iw8jho'>
+            <column datatype='real' name='[Average]' role='measure' type='quantitative' />
             <column datatype='string' name='[Country (GDP info.csv)]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
             <column caption='GDP growth1' datatype='real' name='[GDP growth]' role='measure' type='quantitative' />
             <column datatype='integer' name='[Year (GDP info.csv)]' role='dimension' type='quantitative' />
             <column-instance column='[Country (GDP info.csv)]' derivation='None' name='[none:Country (GDP info.csv):nk]' pivot='key' type='nominal' />
             <column-instance column='[Year (GDP info.csv)]' derivation='None' name='[none:Year (GDP info.csv):qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Average]' derivation='Sum' name='[sum:Average:qk]' pivot='key' type='quantitative' />
             <column-instance column='[GDP growth]' derivation='Sum' name='[sum:GDP growth:qk]' pivot='key' type='quantitative' />
           </datasource-dependencies>
           <filter class='categorical' column='[federated.012fpsw1cdhdyv14r44ng0iw8jho].[none:Country (GDP info.csv):nk]'>
@@ -1248,8 +1250,38 @@
               </style-rule>
             </style>
           </pane>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.012fpsw1cdhdyv14r44ng0iw8jho].[sum:GDP growth:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.012fpsw1cdhdyv14r44ng0iw8jho].[none:Country (GDP info.csv):nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='1.8570718765258789' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.012fpsw1cdhdyv14r44ng0iw8jho].[sum:Average:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.012fpsw1cdhdyv14r44ng0iw8jho].[none:Country (GDP info.csv):nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='1.8570718765258789' />
+              </style-rule>
+            </style>
+          </pane>
         </panes>
-        <rows>[federated.012fpsw1cdhdyv14r44ng0iw8jho].[sum:GDP growth:qk]</rows>
+        <rows>([federated.012fpsw1cdhdyv14r44ng0iw8jho].[sum:GDP growth:qk] + [federated.012fpsw1cdhdyv14r44ng0iw8jho].[sum:Average:qk])</rows>
         <cols>[federated.012fpsw1cdhdyv14r44ng0iw8jho].[none:Year (GDP info.csv):qk]</cols>
       </table>
       <simple-id uuid='{B50A92E3-3194-4262-B870-F1174A908634}' />
@@ -1452,7 +1484,7 @@
         <edge name='right'>
           <strip size='160'>
             <card param='[federated.012fpsw1cdhdyv14r44ng0iw8jho].[none:Country (GDP info.csv):nk]' type='highlighter' />
-            <card pane-specification-id='0' param='[federated.012fpsw1cdhdyv14r44ng0iw8jho].[none:Country (GDP info.csv):nk]' type='color' />
+            <card pane-specification-id='1' param='[federated.012fpsw1cdhdyv14r44ng0iw8jho].[none:Country (GDP info.csv):nk]' type='color' />
           </strip>
         </edge>
       </cards>
